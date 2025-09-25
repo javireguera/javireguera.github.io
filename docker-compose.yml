@@ -1,0 +1,27 @@
+services:
+  pixelfoster-dev:
+    container_name: pixelfoster-dev
+    image: pixelfoster:latest
+    build:
+      context: .
+    ports:
+      - "1313:1313"
+    volumes:
+      - ./web:/web
+      - ./public-dev:/web/public-dev
+    environment:
+      - HUGO_ENV=development
+    command: ["hugo", "server", "--bind=0.0.0.0", "--disableFastRender", "--buildDrafts", "--buildFuture", "--destination=public-dev"]
+
+  pixelfoster-build:
+    container_name: pixelfoster-build
+    image: pixelfoster:latest
+    build:
+      context: .
+    volumes:
+      - ./web:/web
+      - ./public:/web/public
+    environment:
+      - HUGO_ENV=production
+    command: ["hugo", "--destination=public", "--minify"]
+    profiles: ["build"]
