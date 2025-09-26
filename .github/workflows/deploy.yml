@@ -5,10 +5,12 @@ on:
     branches:
       - main  # Deploy whenever you push to main
 
+permissions:
+  contents: write
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
