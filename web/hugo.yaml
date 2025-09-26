@@ -1,4 +1,4 @@
-baseURL: https://javireguera.github.io/pixelfoster/
+baseURL: https://javireguera.github.io/
 theme: hugobricks
 defaultContentLanguage: en
 assetDir: static
