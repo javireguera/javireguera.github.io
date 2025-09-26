@@ -13,6 +13,14 @@ if [ ! -f hugo.yaml ] && [ ! -f config.yaml ] && [ ! -f hugo.toml ] && [ ! -f co
     echo "Hugobricks setup completed."
 fi
 
+if [ ! -d themes/hugobricks ]; then
+    echo "Cloning Hugobricks theme..."
+    git clone --depth=1 "$HUGOBRICKS_REPO" /tmp/hugobricks
+    rsync -av --ignore-existing /tmp/hugobricks/ /web/
+    rm -rf /tmp/hugobricks
+    echo "Hugobricks theme setup completed."
+fi
+
 # Clean previous builds
 rm -rf /web/.hugo_build.lock /web/resources 2>/dev/null || true
 

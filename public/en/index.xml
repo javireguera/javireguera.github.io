@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on</title><link>https://javireguera.github.io/pixelfoster/en/</link><description>Recent content in Home on</description><generator>Hugo</generator><language>en</language><lastBuildDate>Tue, 11 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://javireguera.github.io/pixelfoster/en/index.xml" rel="self" type="application/rss+xml"/><item><title>Buy me a coffee</title><link>https://javireguera.github.io/pixelfoster/en/products/3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/products/3/</guid><description>&lt;p>A perfect coffee in the morning absolutely makes my day. Buy me a small one for a good start or a big one to keep going all day!&lt;/p></description></item><item><title>Buy me a beer</title><link>https://javireguera.github.io/pixelfoster/en/products/2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/products/2/</guid><description>&lt;p>I like beer a lot! IPA, Guinness, Stout, craft beers&amp;hellip; and I love to try new ones. Buy me half-a-pint to get going or a pint to get a good buzz.&lt;/p></description></item><item><title>Buy me chocolates</title><link>https://javireguera.github.io/pixelfoster/en/products/1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/products/1/</guid><description>&lt;p>Buy me a fancy box of chocolates&amp;hellip; not for me, but for my wife. Giving her chocolates will most certainly buy me extra programming time in my Linux powered man cave.&lt;/p></description></item><item><title>This theme has a perfect Google Lighthouse&amp;nbsp;score</title><link>https://javireguera.github.io/pixelfoster/en/posts/perfect-google-lighthouse-score/</link><pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/posts/perfect-google-lighthouse-score/</guid><description>&lt;p>This theme has a (near) &lt;a href="https://pagespeed.web.dev/analysis/https-www-hugobricks-preview-usecue-com/je4uqrt6nj?form_factor=mobile">perfect Google Lighthouse score&lt;/a>. Some people like fast cars. I like fast websites. But how to get to a perfect Google Lighthouse score? Let me explain.&lt;/p>
+&lt;p>You might feel that it is nearly impossible to get to a perfect 100% score. You minified your Javascript, properly scaled your images and even combined some requests, but that did not help nearly enough. The problem is: you might be looking at it from the wrong angle. I build 100% scoring websites on a daily basis, so obviously it is very well possible to get a perfect score on all your websites with little effort. I will try to explain what we want to achieve and how we can achieve that.&lt;/p></description></item><item><title>Jamstack has matured</title><link>https://javireguera.github.io/pixelfoster/en/posts/jamstack-has-matured/</link><pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/posts/jamstack-has-matured/</guid><description>&lt;p>In the beginning Jamstack was fun. The main SSG was Jekyll, which was simple and open-source. It was not only free to use, but also free to host (on Github). Jamstack websites were blazing fast and scored high in Google Lighthouse. There were plenty of free CMS options to choose from. The Jamstack looked very promising! But times have changed&amp;hellip;&lt;/p>
+&lt;h2 id="jekyll-is-dead">Jekyll is dead&lt;/h2>
+&lt;p>Sure&amp;hellip; you can still use Jekyll. But Jekyll lost its most important developer and Github decided to freeze their Jekyll version. Without Github support there is no real reason to create new Jekyll versions. Jekyll is no longer a future-proof SSG.&lt;/p></description></item><item><title>Artisanal web development</title><link>https://javireguera.github.io/pixelfoster/en/posts/artisanal-web-development/</link><pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/posts/artisanal-web-development/</guid><description>&lt;p>Yesterday &lt;a href="https://www.linkedin.com/in/david-large-4875b81b2/?originalSubdomain=nz">David Large&lt;/a> invited me to his &lt;a href="https://www.youtube.com/watch?v=MuAe7aZu0Nw">Static Feedback&lt;/a> show. It was a big honor to be featured there. The interview went by in a flash&amp;hellip; and I want this post to summarize it and add some points that we may have missed.&lt;/p>
+&lt;h2 id="what-is-artisanal-web-development">What is artisanal web development?&lt;/h2>
+&lt;p>Anything CAN be artisanal web development, but what I mean is &amp;lsquo;knowing every line of code that goes into your project&amp;rsquo;. This implies that you are not using frameworks or any other type of third party code.&lt;/p></description></item><item><title>Code is poetry</title><link>https://javireguera.github.io/pixelfoster/en/posts/code-is-poetry/</link><pubDate>Sat, 24 Sep 2022 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/posts/code-is-poetry/</guid><description>&lt;p>I found the words &amp;lsquo;code is poetry&amp;rsquo; in the footer of &lt;a href="https://wordpress.org/">the new Wordpress frontpage&lt;/a>, that has been launched recently. I fully agree that code is poetry! I love to read and write beautiful and concise code.&lt;/p>
+&lt;p>In a few days I will even be joining CloudCannon on their Youtube show &amp;lsquo;Static Feedback&amp;rsquo; to talk about &lt;a href="https://www.youtube.com/c/CloudCannon">Artisanal Web Development&lt;/a>. This is my hand-crafted take on building sites with absolute knowledge about every line of code.&lt;/p></description></item><item><title>Has WebP landed yet?</title><link>https://javireguera.github.io/pixelfoster/en/posts/has-webp-landed-yet/</link><pubDate>Sun, 11 Sep 2022 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/posts/has-webp-landed-yet/</guid><description>&lt;p>Those who know me, know I care about DX just as much as UX. I will not use a feature that requires prefixes, polyfills or other wizardry. I can wait for a feature to land in your browser. The question I asked myself today (from this perspective) was: Has WebP landed yet?&lt;/p>
+&lt;p>Although it is supported in almost any browser, it is not fully supported in &lt;a href="https://caniuse.com/webp">Safari on macOS&lt;/a>. Safari supports WebP, but it is not working on macOS versions below Big Sur (macOS 11). The question is&amp;hellip; &lt;a href="https://apple.stackexchange.com/questions/417757/any-data-on-big-sur-market-share">how many people are using Big Sur&lt;/a>? Well, since Big Sur was introduced in june 2020 you cannot expect its market share to be very big by now. We could ignore those outdated Safari lovers on Mac, but that is not my style.&lt;/p></description></item><item><title>The Stackless Way</title><link>https://javireguera.github.io/pixelfoster/en/posts/the-stackless-way/</link><pubDate>Tue, 14 Sep 2021 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/posts/the-stackless-way/</guid><description>&lt;p>The Stackless Way wants to give beginners a gradual path from simple HTML into more power without encountering frameworks or build tools as a barrier. It shares my conviction that &amp;rsquo;there are no shortcuts&amp;rsquo; and &amp;lsquo;&lt;a href="https://www.usecue.com/blog/code-warriors">you need to master your sword&lt;/a>&amp;rsquo;.&lt;/p>
+&lt;h2 id="good-old-html">Good old HTML&lt;/h2>
+&lt;p>The Stackless Way uses standard HTML elements. &lt;a href="https://tutorials.yax.com/articles/the-yax-way/2.html">Daniel Kehoe&lt;/a>, who inspired me to write something about Stackless, proposes to use custom HTML elements that are enriched with javascript, but I am a purist: loading unknown code from a package manager is not plain and Stackless enough for me.&lt;/p></description></item><item><title>About</title><link>https://javireguera.github.io/pixelfoster/en/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/about/</guid><description>&lt;p>&lt;section class="about">
+ &lt;div class="container small">
+ &lt;p>&lt;img src="https://javireguera.github.io/pixelfoster/uploads/photos/avatars/2_hu_8a0cfbbc79d8dc16.jpeg" alt="This is not me" class="colorize_image" />&lt;/p>
+&lt;h1 id="hey-my-name-is-joost">Hey, my name is Joost&lt;/h1>
+&lt;p>Together with my friend &amp;lsquo;Fenix&amp;rsquo; I have built Hugobricks, a theme that allows you to create a website by stacking shortcodes. The guy in the picture is not me, but an avatar from the internet. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.&lt;/p>
+&lt;ul class="buttons social">&lt;li>&lt;a href="https://facebook.com" class="button icon">&lt;img src="https://javireguera.github.io/pixelfoster/img/facebook.svg" alt="Facebook" />&lt;/a>&lt;/li>&lt;li>&lt;a href="https://twitter.com" class="button icon">&lt;img src="https://javireguera.github.io/pixelfoster/img/twitter.svg" alt="Twitter" />&lt;/a>&lt;/li>&lt;li>&lt;a href="https://joinmastodon.org" class="button icon">&lt;img src="https://javireguera.github.io/pixelfoster/img/mastodon.svg" alt="Mastodon" />&lt;/a>&lt;/li>&lt;li>&lt;a href="https://instagram.com" class="button icon">&lt;img src="https://javireguera.github.io/pixelfoster/img/instagram.svg" alt="Instagram" />&lt;/a>&lt;/li>&lt;/ul>
+
+ &lt;/div>
+&lt;/section>
+&lt;section class="cta hasbackgroundcolor">
+ &lt;div class="container">
+ &lt;div class="twocols box">
+ &lt;div class="text">
+ &lt;div>&lt;h2 id="get-started-with-hugobricks-today">Get started with Hugobricks today!&lt;/h2>
+&lt;p>Experience the future of web development with Hugo and stackable content bricks. Build lightning-fast static sites with ease and flexibility.&lt;/p></description></item><item><title>Basic page 1</title><link>https://javireguera.github.io/pixelfoster/en/basic/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/basic/</guid><description>&lt;section class="wide">
+ &lt;div class="container">
+ &lt;h1 id="basic-page-1">Basic page 1&lt;/h1>
+&lt;ul class="breadcrumbs">&lt;li>&lt;a href="https://javireguera.github.io/pixelfoster/">Home&lt;/a>&lt;/li>&lt;li>&lt;a href="https://javireguera.github.io/pixelfoster/en/">Home&lt;/a>&lt;/li>&lt;li>&lt;a href="https://javireguera.github.io/pixelfoster/en/basic/">Basic page 1&lt;/a>&lt;/li>&lt;/ul>
+&lt;p>Lorem dolor sit amet, consectetur adipiscing elit. Nam non laoreet nisi, ac hendrerit lacus. Sed eget dapibus dui. Phasellus non ante sollicitudin, ultrices ex et, convallis orci. Etiam laoreet justo neque. Aenean nec porta mauris, ut luctus nibh. Morbi sed quam rhoncus felis tempus porttitor a nec nisl. Nulla facilisi. In suscipit velit sed lacus condimentum, at &lt;a href="https://www.google.com">fermentum&lt;/a> nulla faucibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.&lt;/p></description></item><item><title>Basic page 2</title><link>https://javireguera.github.io/pixelfoster/en/basic2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/basic2/</guid><description>&lt;section class="wide">
+ &lt;div class="container">
+ &lt;ul class="breadcrumbs">&lt;li>&lt;a href="https://javireguera.github.io/pixelfoster/">Home&lt;/a>&lt;/li>&lt;li>&lt;a href="https://javireguera.github.io/pixelfoster/en/">Home&lt;/a>&lt;/li>&lt;li>&lt;a href="https://javireguera.github.io/pixelfoster/en/basic2/">Basic page 2&lt;/a>&lt;/li>&lt;/ul>
+&lt;h1 id="basic-page-2">Basic page 2&lt;/h1>
+&lt;p>Lorem dolor sit amet, consectetur adipiscing elit. Nam non laoreet nisi, ac hendrerit lacus. Sed eget dapibus dui. Phasellus non ante sollicitudin, ultrices ex et, convallis orci. Etiam laoreet justo neque. Aenean nec porta mauris, ut luctus nibh. Morbi sed quam rhoncus felis tempus porttitor a nec nisl. Nulla facilisi. In suscipit velit sed lacus condimentum, at &lt;a href="https://www.google.com">fermentum&lt;/a> nulla faucibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.&lt;/p></description></item><item><title>blocks</title><link>https://javireguera.github.io/pixelfoster/en/bricks/blocks/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/bricks/blocks/</guid><description>&lt;h2 id="alternative-services-1">Alternative services 1&lt;/h2>
+&lt;p>Hugobricks covers all components you would like to have at hand. It is a power engine for your web oriented projects. It has excellent performance in all categories.&lt;/p>
+&lt;hr>
+&lt;p>&lt;img src="https://javireguera.github.io/pixelfoster/uploads/gallery/01.jpg" alt="">&lt;/p>
+&lt;h3 id="covers-all-components">Covers all components&lt;/h3>
+&lt;p>Includes many bricks.&lt;/p>
+&lt;p>&lt;a href="https://javireguera.github.io/pixelfoster/services/">&lt;/a>&lt;/p>
+&lt;hr>
+&lt;p>&lt;img src="https://javireguera.github.io/pixelfoster/uploads/gallery/02.jpg" alt="">&lt;/p>
+&lt;h3 id="99-google-lighthouse-score">99+ Google Lighthouse score&lt;/h3>
+&lt;p>Lightning fast website.&lt;/p>
+&lt;p>&lt;a href="https://javireguera.github.io/pixelfoster/services/">&lt;/a>&lt;/p>
+&lt;hr>
+&lt;p>&lt;img src="https://javireguera.github.io/pixelfoster/uploads/gallery/03.jpg" alt="">&lt;/p>
+&lt;h3 id="themeable-through-css-variables">Themeable through CSS variables&lt;/h3>
+&lt;p>Easily themeable.&lt;/p>
+&lt;p>&lt;a href="https://javireguera.github.io/pixelfoster/services/">&lt;/a>&lt;/p>
+&lt;hr>
+&lt;p>&lt;img src="https://javireguera.github.io/pixelfoster/uploads/gallery/04.jpg" alt="">&lt;/p>
+&lt;h3 id="fully-responsive-on-all-devices">Fully responsive on all devices&lt;/h3>
+&lt;p>Works on every screen.&lt;/p>
+&lt;p>&lt;a href="https://javireguera.github.io/pixelfoster/services/">&lt;/a>&lt;/p>
+&lt;hr>
+&lt;p>&lt;img src="https://javireguera.github.io/pixelfoster/uploads/gallery/05.jpg" alt="">&lt;/p>
+&lt;h3 id="super-fast-builds-and-deploys">Super fast builds and deploys&lt;/h3>
+&lt;p>Extremely fast.&lt;/p></description></item><item><title>Blog</title><link>https://javireguera.github.io/pixelfoster/en/blog/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/blog/</guid><description>&lt;p>&lt;section class="posts">
+ &lt;div class="container small">&lt;ul class="breadcrumbs">&lt;li>&lt;a href="https://javireguera.github.io/pixelfoster/">Home&lt;/a>&lt;/li>&lt;li>&lt;a href="https://javireguera.github.io/pixelfoster/en/">Home&lt;/a>&lt;/li>&lt;li>&lt;a href="https://javireguera.github.io/pixelfoster/en/blog/">Blog&lt;/a>&lt;/li>&lt;/ul>
+&lt;h1 id="blog-posts">Blog posts&lt;/h1>
+&lt;p>This is a demo of the blog. In ultricies vel enim vel pulvinar. Quisque finibus sem velit, sed consequat mi ullamcorper vitae. Proin finibus tristique sollicitudin.&lt;/p>&lt;/div>
+ &lt;div class="container">
+ &lt;div class="filter">
+ &lt;select id="filter" class="multiselecttags numbers_true" multiple autocomplete="off" title="">
+ 
+ &lt;/select>
+ &lt;/div>
+ &lt;ul class="contentitems grid posts" data-pagesize="3">
+ 
+ &lt;li class="item tag_performance tag_jamstack">&lt;a href="https://javireguera.github.io/pixelfoster/blog/this-theme-has-a-perfect-google-lighthousenbspscore/">&lt;div class="img">&lt;img data-src="https://javireguera.github.io/pixelfoster/uploads/gallery/02_hu_24fdec3576d9af97.jpg" alt="This theme has a perfect Google Lighthouse&amp;amp;nbsp;score" style="cursor: pointer;" onclick="document.location.href='\/pixelfoster\/blog\/this-theme-has-a-perfect-google-lighthousenbspscore\/';" />&lt;/div>&lt;/a>&lt;h3>This theme has a perfect Google Lighthouse&amp;nbsp;score&lt;/h3>
+ &lt;div class="meta">
+ &lt;div>
+ &lt;img src="https://javireguera.github.io/pixelfoster/img/icons/material-symbols/200/rounded/calendar_month-fill.svg"class="black_2_textDark" alt="" />
+ Jul 11, 2023
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="summary">
+ &lt;p>This theme has a (near) perfect Google Lighthouse score. Some people like fast cars. I like fast websites. But how to get to a perfect Google Lighthouse score? Let me explain.
+You might feel...&lt;/p></description></item><item><title>Cart</title><link>https://javireguera.github.io/pixelfoster/en/bricks/cart/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/bricks/cart/</guid><description>&lt;h1 id="products-in-your-cart">Products in your cart&lt;/h1>
+&lt;p>Review the items in your cart below.&lt;/p></description></item><item><title>Cart</title><link>https://javireguera.github.io/pixelfoster/en/cart/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/cart/</guid><description>&lt;section class="cart">
+ &lt;div class="container medium">&lt;h1 id="products-in-your-cart">Products in your cart&lt;/h1>
+&lt;p>Review the items in your cart below.&lt;/p>
+ &lt;div id="shoppingcart">
+ &lt;table celpadding="0" cellspacing="0">
+ &lt;thead>
+ &lt;tr>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&amp;nbsp;&amp;nbsp;&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td colspan="6" style="text-align: center;">&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+ &lt;/table>
+ &lt;div>$ &lt;span class="carttotal">0.00&lt;/span>&lt;/div>
+ &lt;form action="https://javireguera.github.io/pixelfoster/checkout/">
+ &lt;div class="submitbutton">
+ &lt;a href="https://javireguera.github.io/pixelfoster/webshop" class="gray">&lt;/a>
+ &lt;input type="submit" class="button" value='' />
+ &lt;/div>
+ &lt;/form>
+ &lt;/div>
+ &lt;div style="margin-top: 50px; position: relative; top: 30px;">
+ &lt;ul id="checkout_progress">
+ &lt;li class="current">&lt;span>&lt;a href="#">&lt;/a>&lt;/span>&lt;/li>
+ &lt;li>&lt;span>&lt;span>&lt;/span>&lt;/span>&lt;/li>
+ &lt;li>&lt;span>&lt;span>&lt;/span>&lt;/span>&lt;/li>
+ &lt;/ul>
+ &lt;/div>
+ &lt;script type="text/javascript" src="https://javireguera.github.io/pixelfoster/js/webshop.js">&lt;/script>
+ &lt;script type="text/javascript">
+ const currencySymbol = '$';
+ updateCartCount();
+ populateCart();
+ &lt;/script>
+ &lt;/div>
+&lt;/section></description></item><item><title>Checkout</title><link>https://javireguera.github.io/pixelfoster/en/bricks/checkout/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/bricks/checkout/</guid><description>&lt;h1 id="checkout">Checkout&lt;/h1>
+&lt;hr>
+&lt;p>Payments are 100% secure and will be handled by either Mollies Paylink service, called Plink, or Paypal.me. In the next screen you will be redirected to a secure checkout process on either useplink.com or paypal.me.&lt;/p></description></item><item><title>Checkout</title><link>https://javireguera.github.io/pixelfoster/en/checkout/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/checkout/</guid><description>&lt;section class="checkout">
+ &lt;div class="container medium">
+ &lt;div id="checkout">
+ &lt;h1 id="checkout">Checkout&lt;/h1>
+
+ &lt;form action="https://javireguera.github.io/pixelfoster/payment/" method="post" onchange="setAddons(this)">
+ &lt;input name="_gotcha" style="display:none" type="text">
+ &lt;input name="_to" type="hidden" value="joost@vdschee.nl">
+ &lt;input name="_subject" value="New order!" type="hidden">
+ &lt;input name="ordernumber" value="" type="hidden">
+
+ &lt;div class="half">
+ &lt;label for="firstname">&lt;/label>
+ &lt;input type="text" name="firstname" required />
+ &lt;/div>
+
+ &lt;div class="half">
+ &lt;label for="lastname">&lt;/label>
+ &lt;input type="text" name="lastname" required />
+ &lt;/div>
+
+ &lt;div>
+ &lt;label for="email">&lt;/label>
+ &lt;input type="email" name="email" required />
+ &lt;/div>
+
+ &lt;div>
+ &lt;label for="address">&lt;/label>
+ &lt;input type="text" name="address" required />
+ &lt;/div>
+
+ &lt;div class="half">
+ &lt;label for="zipcode">&lt;/label>
+ &lt;input type="text" name="zipcode" required />
+ &lt;/div>
+
+ &lt;div class="half">
+ &lt;label for="city">&lt;/label>
+ &lt;input type="text" name="city" required />
+ &lt;/div>
+
+ 
+ &lt;div>
+ &lt;label for="shipping">&lt;/label>
+ &lt;select name="shipping" required
+ onchange="if(this.value == 'Shipping NL') document.querySelector('input[name=\'country\']').value = 'The Netherlands'; else document.querySelector('input[name=\'country\']').value = ''">
+ &lt;option value="">&lt;/option>
+ 
+ 
+ &lt;option value="Shipping NL" data-title="Shipping NL" data-price="0">The Netherlands (+ $0.00)&lt;/option>
+ 
+ &lt;option value="Shipping EU" data-title="Shipping EU" data-price="7.5">European Union (+ $7.50)&lt;/option>
+ 
+ &lt;option value="Shipping World" data-title="Shipping World" data-price="15">Rest of the world (+ $15.00)&lt;/option>
+ 
+ &lt;/select>
+ &lt;/div>
+ 
+
+ &lt;div>
+ &lt;label for="country">&lt;/label>
+ &lt;input type="text" name="country" required />
+ &lt;/div>
+
+ 
+ &lt;div>
+ &lt;label>Gift wrapping&lt;/label>
+
+ 
+ &lt;label>&lt;input type="radio" name="gift-wrapping" data-title='Gift wrapping' value="false" data-price='0' required>Not gift wrapped &lt;/label>
+ 
+ &lt;label>&lt;input type="radio" name="gift-wrapping" data-title='Gift wrapping' value="true" data-price='2' required>Gift wrapped (+ $2.00)&lt;/label>
+ 
+ &lt;/div>
+ 
+ &lt;div>
+ &lt;label>Custom engraving&lt;/label>
+
+ 
+ &lt;label>&lt;input type="radio" name="custom-engraving" data-title='Custom engraving' value="false" data-price='0' required>No engraving &lt;/label>
+ 
+ &lt;label>&lt;input type="radio" name="custom-engraving" data-title='Custom engraving' value="true" data-price='20' required>Custom engraved (+ $20.00)&lt;/label>
+ 
+ &lt;/div>
+ 
+
+ &lt;div>
+ &lt;label for="message">&lt;/label>
+ &lt;textarea name="message">&lt;/textarea>
+ &lt;/div>
+
+ &lt;div class="submitbutton">
+ &lt;a href="https://javireguera.github.io/pixelfoster/cart/" class="gray">&lt;/a>
+ &lt;input type="submit" class='button' value='' onclick="setOrderNumber(this.closest('form'));" />
+ &lt;/div>
+
+ &lt;/form>
+ &lt;div>
+ &lt;label style="padding-top: 0.8rem;">&lt;/label>
+ &lt;div id="checkoutcalculation">
+ &lt;span>: &lt;/span>$ 0.00
+ &lt;/div>
+ &lt;p>&lt;em>
+
+Payments are 100% secure and will be handled by either Mollies Paylink service, called Plink, or Paypal.me. In the next screen you will be redirected to a secure checkout process on either useplink.com or paypal.me.
+
+&lt;/em>&lt;/p></description></item><item><title>Contact us</title><link>https://javireguera.github.io/pixelfoster/en/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/contact/</guid><description>&lt;p>&lt;section class="title">
+ &lt;div class="container small">&lt;ul class="breadcrumbs">&lt;li>&lt;a href="https://javireguera.github.io/pixelfoster/">Home&lt;/a>&lt;/li>&lt;li>&lt;a href="https://javireguera.github.io/pixelfoster/en/">Home&lt;/a>&lt;/li>&lt;li>&lt;a href="https://javireguera.github.io/pixelfoster/en/contact/">Contact us&lt;/a>&lt;/li>&lt;/ul>
+&lt;h1 id="contact-us">Contact us&lt;/h1>
+&lt;p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.&lt;/p>&lt;/div>
+&lt;/section>
+&lt;section class="contact">
+ &lt;div class="container twocols">
+ &lt;div>
+ &lt;div class="box">&lt;img src="https://javireguera.github.io/pixelfoster/form.php" style="position: absolute; opacity: 0; pointer-events: none;" />
+&lt;form id="contactform" class="form" method="POST" action="https://javireguera.github.io/pixelfoster/form.php">&lt;h3>Tell us a bit about yourself&lt;/h3>&lt;div>
+ &lt;label class="inborder" for="name">Name&lt;/label>
+ &lt;input type="text" name="name" id="name" class="form-control" required>
+ &lt;/div>&lt;div>
+ &lt;label class="inborder" for="email">Email address&lt;/label>
+ &lt;input type="email" name="email" id="email" class="form-control" required>
+ &lt;/div>&lt;div>
+ &lt;label class="inborder" for="message">Message&lt;/label>
+ &lt;textarea name="message" name="message" id="message" cols="30" rows="10" class="form-control" required>&lt;/textarea>
+ &lt;/div>&lt;div class="checkbox">
+ &lt;label>&lt;input type="checkbox" name="terms" value="I accept the terms and conditions" required>I accept the terms and conditions&lt;/label>
+ &lt;/div>&lt;div class="submit">
+ &lt;div>&lt;input type="submit" value="Submit form" class="button" />&lt;/div>
+ &lt;/div>&lt;/form>&lt;/div>
+ &lt;/div>
+ &lt;div class="text">&lt;p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.&lt;/p></description></item><item><title>cta</title><link>https://javireguera.github.io/pixelfoster/en/bricks/cta/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/bricks/cta/</guid><description>&lt;h2 id="get-started-with-hugobricks-today">Get started with Hugobricks today!&lt;/h2>
+&lt;p>Experience the future of web development with Hugo and stackable content bricks. Build lightning-fast static sites with ease and flexibility.&lt;/p>
+&lt;a href="https://javireguera.github.io/pixelfoster/get-started/" class="button secondary" title="Get started now">Get started now&lt;/a>
+&lt;p>&lt;img src="https://javireguera.github.io/pixelfoster/uploads/illustrations/cuate/server.svg" alt="">&lt;/p></description></item><item><title>Elements</title><link>https://javireguera.github.io/pixelfoster/en/elements/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/elements/</guid><description>&lt;p>&lt;section class="title">
+ &lt;div class="container small">&lt;ul class="breadcrumbs">&lt;li>&lt;a href="https://javireguera.github.io/pixelfoster/">Home&lt;/a>&lt;/li>&lt;li>&lt;a href="https://javireguera.github.io/pixelfoster/en/">Home&lt;/a>&lt;/li>&lt;li>&lt;a href="https://javireguera.github.io/pixelfoster/en/elements/">Elements&lt;/a>&lt;/li>&lt;/ul>
+&lt;h1 id="elements">Elements&lt;/h1>
+&lt;p>Lorem dolor sit amet, consectetur adipiscing elit. Nam non laoreet nisi, ac hendrerit lacus. Sed eget dapibus dui. Phasellus non ante sollicitudin, ultrices ex et, convallis orci.&lt;/p>&lt;/div>
+&lt;/section>
+&lt;section class="wide">
+ &lt;div class="container">
+ &lt;p>Lorem dolor sit amet, consectetur adipiscing elit. Nam non laoreet nisi, ac hendrerit lacus. Sed eget dapibus dui. Phasellus non ante sollicitudin, ultrices ex et, convallis orci. Etiam laoreet justo neque. Aenean nec porta mauris, ut luctus nibh. Morbi sed quam rhoncus felis tempus porttitor a nec nisl. Nulla facilisi. In suscipit velit sed lacus condimentum, at &lt;a href="https://www.google.com">fermentum&lt;/a> nulla faucibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.&lt;/p></description></item><item><title>F.A.Q.</title><link>https://javireguera.github.io/pixelfoster/en/faq/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/faq/</guid><description>&lt;p>&lt;section class="title">
+ &lt;div class="container small">&lt;ul class="breadcrumbs">&lt;li>&lt;a href="https://javireguera.github.io/pixelfoster/">Home&lt;/a>&lt;/li>&lt;li>&lt;a href="https://javireguera.github.io/pixelfoster/en/">Home&lt;/a>&lt;/li>&lt;li>&lt;a href="https://javireguera.github.io/pixelfoster/en/faq/">F.A.Q.&lt;/a>&lt;/li>&lt;/ul>
+&lt;h1 id="frequently-asked-questions">Frequently Asked Questions&lt;/h1>
+&lt;p>Almost everything you want to know has been asked before. In ultricies vel enim vel pulvinar. Quisque finibus sem velit, sed consequat mi ullamcorper vitae. Proin finibus tristique sollicitudin.&lt;/p>&lt;/div>
+&lt;/section>
+&lt;section class="wide">
+ &lt;div class="container">
+ &lt;h3>Hugobricks theme&lt;/h3>
+			&lt;div>&lt;details>
+						&lt;summary>Why choose Hugobricks for my next project?&lt;/summary>
+						&lt;div>&lt;div>Hugo allows you to build a fast, efficient, and scalable website. It offers you a clean separation of concerns, content vs layout and styles. The Hugobricks brings a pagebuilder to that workflow.&lt;/div>&lt;/div>
+					&lt;/details>&lt;details>
+						&lt;summary>I need to develop a performant website. Does Hugobricks offer a good performance?&lt;/summary>
+						&lt;div>&lt;div>Hugobricks is renowned for its exceptional speed and performance. It is built using the Go programming language, which enables it to generate websites at an astonishing pace. Whether you have a small blog or a large enterprise site, Hugobricks’s speed ensures that your pages load quickly, providing an excellent user experience. This advantage becomes especially significant when dealing with large websites or making frequent updates.&lt;/div>&lt;/div>
+					&lt;/details>&lt;/div>&lt;h3>Scalability, ease of use and flexibility?&lt;/h3>
+			&lt;div>&lt;details>
+						&lt;summary>What about scalability and portability&lt;/summary>
+						&lt;div>&lt;div>Whether you’re building a personal blog or a large-scale enterprise website, Hugobricks scales effortlessly. Its ability to handle thousands of pages with consistent speed and efficiency makes it an ideal choice for projects of any size. Moreover, Hugobricks generates static websites that can be hosted on any web server or content delivery network (CDN) without any specific server requirements, ensuring portability and easy deployment.&lt;/div>&lt;/div>
+					&lt;/details>&lt;details>
+						&lt;summary>How easy is it to set up?&lt;/summary>
+						&lt;div>&lt;div>Hugobricks offers a straightforward and hassle-free setup process. It comes with pre-built binaries for various operating systems, making it accessible to developers across different platforms. Additionally, Hugobricks has a user-friendly command-line interface (CLI) that allows you to create and manage your site effortlessly. Its simplicity makes it a great choice for both experienced developers and beginners alike.&lt;/div>&lt;/div>
+					&lt;/details>&lt;details>
+						&lt;summary>How flexible is the offered architecture?&lt;/summary>
+						&lt;div>&lt;div>Hugobricks provides a flexible architecture that empowers developers to create websites tailored to their specific needs. With its powerful templating system, you can easily customize the look and feel of your site. Hugobricks supports a wide range of themes, allowing you to choose from a vast collection or create your own. Furthermore, its extensive plugin ecosystem enables you to extend its functionality and add features seamlessly.&lt;/div>&lt;/div>
+					&lt;/details>&lt;/div>&lt;h3>Markdown content and SEO&lt;/h3>
+			&lt;div>&lt;details>
+						&lt;summary>What about Markdown and content management?&lt;/summary>
+						&lt;div>&lt;div>Content creation and management are made convenient with Hugobricks. It supports Markdown, a lightweight markup language that simplifies the process of writing content-rich web pages. Markdown’s simplicity and readability make it a favorite among writers and developers alike. Hugobricks’s content organization system allows you to easily structure your content, making it effortless to manage and update your website’s information.&lt;/div>&lt;/div>
+					&lt;/details>&lt;details>
+						&lt;summary>What about SEO-friendliness?&lt;/summary>
+						&lt;div>&lt;div>Hugobricks is designed with search engine optimization (SEO) in mind. It generates clean HTML markup, adhering to best practices for search engine discoverability. This helps your site rank higher in search engine results, increasing its visibility to potential visitors.&lt;/div>&lt;/div>
+					&lt;/details>&lt;details>
+						&lt;summary>What about hugobricks security?&lt;/summary>
+						&lt;div>&lt;div>Additionally, Hugobricks’s static nature eliminates the need for databases or complex server configurations, making it inherently more secure than dynamic content management systems.&lt;/div>&lt;/div>
+					&lt;/details>&lt;/div>
+
+ &lt;/div>
+&lt;/section>&lt;/p></description></item><item><title>features</title><link>https://javireguera.github.io/pixelfoster/en/bricks/features/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/bricks/features/</guid><description>&lt;h2 id="the-ultimate-hugo-theme">The Ultimate Hugo theme&lt;/h2>
+&lt;p>Hugobricks covers all components you would like to have at hand. It is a power engine for your web oriented projects. It has excellent performance in all categories.&lt;/p>
+&lt;hr>
+&lt;p>&lt;img src="https://javireguera.github.io/pixelfoster/img/icons/material-symbols/200/rounded/auto_awesome_mosaic.svg" alt="">&lt;/p>
+&lt;h3 id="covers-all-components">Covers all components&lt;/h3>
+&lt;p>We aim to provide the following bricks: intro, title, image, cta, contact, team, testimonials, about, pricing, products, product, usps, stats, gallery, quote, faqs, brands, video, blogs, post, related.&lt;/p>
+&lt;hr>
+&lt;p>&lt;img src="https://javireguera.github.io/pixelfoster/img/icons/material-symbols/200/rounded/performance_max.svg" alt="">&lt;/p>
+&lt;h3 id="99-google-lighthouse-score">99+ Google Lighthouse score&lt;/h3>
+&lt;p>Lightning fast website. Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.&lt;/p></description></item><item><title>First service</title><link>https://javireguera.github.io/pixelfoster/en/services/first-service/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/services/first-service/</guid><description>&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus cursus egestas arcu, in vestibulum tortor pellentesque vitae. Curabitur dapibus tempor libero id vulputate. Proin sodales, nisi quis laoreet commodo, sapien quam consectetur lorem, ut molestie augue eros in enim. Nam tincidunt lobortis sapien, et molestie urna viverra sollicitudin. In hac habitasse platea dictumst. Donec placerat vestibulum luctus. Sed vel convallis nisi.&lt;/p>
+&lt;p>Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla porta faucibus diam, vitae accumsan odio posuere rhoncus. Nunc pellentesque felis id sapien posuere, et commodo nisi pharetra. Cras pulvinar, urna iaculis pretium facilisis, odio dolor dictum leo, et fringilla libero ante eget elit. Vestibulum quis volutpat ligula. Fusce porta et mi luctus convallis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla id turpis tempor, euismod quam in, sollicitudin nisi. Vivamus a enim bibendum, posuere orci ac, lacinia erat. Morbi varius sapien efficitur, pellentesque elit in, feugiat risus. Vivamus in scelerisque nulla. Interdum et malesuada fames ac ante ipsum primis in faucibus.&lt;/p></description></item><item><title>Get started</title><link>https://javireguera.github.io/pixelfoster/en/get-started/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/get-started/</guid><description>&lt;p>&lt;section class="small">
+ &lt;div class="container small">&lt;ul class="breadcrumbs">&lt;li>&lt;a href="https://javireguera.github.io/pixelfoster/">Home&lt;/a>&lt;/li>&lt;li>&lt;a href="https://javireguera.github.io/pixelfoster/en/">Home&lt;/a>&lt;/li>&lt;li>&lt;a href="https://javireguera.github.io/pixelfoster/en/get-started/">Get started&lt;/a>&lt;/li>&lt;/ul>
+&lt;h1 id="get-started">Get started&lt;/h1>
+&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc feugiat, nulla et scelerisque volutpat, elit felis condimentum odio, et bibendum lacus sem sed turpis.&lt;/p>
+&lt;hr>
+&lt;img src="https://javireguera.github.io/pixelfoster/form.php" style="position: absolute; opacity: 0; pointer-events: none;" />
+&lt;form id="contactform" class="form" method="POST" action="https://javireguera.github.io/pixelfoster/form.php">&lt;h3>Tell us a bit about yourself&lt;/h3>&lt;div>
+ &lt;label class="inborder" for="name">Name&lt;/label>
+ &lt;input type="text" name="name" id="name" class="form-control" required>
+ &lt;/div>&lt;div>
+ &lt;label class="inborder" for="email">Email address&lt;/label>
+ &lt;input type="email" name="email" id="email" class="form-control" required>
+ &lt;/div>&lt;div>
+ &lt;label class="inborder" for="message">Message&lt;/label>
+ &lt;textarea name="message" name="message" id="message" cols="30" rows="10" class="form-control" required>&lt;/textarea>
+ &lt;/div>&lt;div class="checkbox">
+ &lt;label>&lt;input type="checkbox" name="terms" value="I accept the terms and conditions" required>I accept the terms and conditions&lt;/label>
+ &lt;/div>&lt;div class="submit">
+ &lt;div>&lt;input type="submit" value="Submit form" class="button" />&lt;/div>
+ &lt;/div>&lt;/form>&lt;/div>
+&lt;/section>
+&lt;section class="map hasbackgroundcolor stickstofooter">
+ &lt;div class="map" style="background-image: url(/uploads/map.png);">
+ &lt;div class="overlay" onclick="window.open('https:\/\/www.google.com\/maps');" style="cursor: pointer;">&lt;/div>
+ &lt;div class="container">
+ &lt;div>&lt;h2 id="contact-us">Contact us&lt;/h2>
+&lt;p>Usecue BV&lt;br>
+Soetendaal 7&lt;br>
+1081BL Amsterdam&lt;br>
+The Netherlands&lt;/p></description></item><item><title>Header image 2</title><link>https://javireguera.github.io/pixelfoster/en/header-dark/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/header-dark/</guid><description>&lt;p>&lt;section class="title bgimage hasbackgroundcolor">
+ &lt;div class="bgimage" style="background: url('/pixelfoster/uploads/photos/bricks_hu_baf8c1bd12ac3791.webp') center center / cover no-repeat;">
+ &lt;div class="overlay">&lt;/div>
+ &lt;div class="container small">
+ 
+&lt;h1 id="dark-preheader">Dark preheader&lt;/h1>
+&lt;ul class="breadcrumbs">&lt;li>&lt;a href="https://javireguera.github.io/pixelfoster/">Home&lt;/a>&lt;/li>&lt;li>&lt;a href="https://javireguera.github.io/pixelfoster/en/">Home&lt;/a>&lt;/li>&lt;li>&lt;a href="https://javireguera.github.io/pixelfoster/en/header-dark/">Header image 2&lt;/a>&lt;/li>&lt;/ul>
+ &lt;/div>
+ &lt;/div>
+&lt;/section>
+&lt;section class="wide">
+ &lt;div class="container">
+ &lt;p>Mauris in nisi ex. Etiam ultricies ipsum id turpis blandit bibendum. Donec posuere elit nec odio vehicula blandit. Aliquam nulla velit, sagittis vitae tellus ut, efficitur faucibus diam. Maecenas id egestas sapien. Nunc sit amet ullamcorper risus. Etiam bibendum mattis ullamcorper. Nulla interdum ornare ipsum, quis efficitur libero tincidunt sed.&lt;/p>
+&lt;p>In ultricies vel enim vel pulvinar. Quisque finibus sem velit, sed consequat mi ullamcorper vitae. Proin finibus tristique sollicitudin. Phasellus sit amet iaculis nisi. Duis sit amet massa cursus, dapibus erat a, eleifend justo. Cras in felis tristique, aliquet est at, ultrices leo. Donec accumsan at quam id volutpat.&lt;/p></description></item><item><title>Header image 2</title><link>https://javireguera.github.io/pixelfoster/en/header-darker/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/header-darker/</guid><description>&lt;p>&lt;section class="title bgimage hasbackgroundcolor">
+ &lt;div class="bgimage" style="background: url('/pixelfoster/uploads/photos/bricks_hu_baf8c1bd12ac3791.webp') center center / cover no-repeat;">
+ &lt;div class="overlay">&lt;/div>
+ &lt;div class="container small">
+ 
+&lt;h1 id="dark-navigation">Dark navigation&lt;/h1>
+&lt;ul class="breadcrumbs">&lt;li>&lt;a href="https://javireguera.github.io/pixelfoster/">Home&lt;/a>&lt;/li>&lt;li>&lt;a href="https://javireguera.github.io/pixelfoster/en/">Home&lt;/a>&lt;/li>&lt;li>&lt;a href="https://javireguera.github.io/pixelfoster/en/header-darker/">Header image 2&lt;/a>&lt;/li>&lt;/ul>
+ &lt;/div>
+ &lt;/div>
+&lt;/section>
+&lt;section class="wide">
+ &lt;div class="container">
+ &lt;p>Mauris in nisi ex. Etiam ultricies ipsum id turpis blandit bibendum. Donec posuere elit nec odio vehicula blandit. Aliquam nulla velit, sagittis vitae tellus ut, efficitur faucibus diam. Maecenas id egestas sapien. Nunc sit amet ullamcorper risus. Etiam bibendum mattis ullamcorper. Nulla interdum ornare ipsum, quis efficitur libero tincidunt sed.&lt;/p>
+&lt;p>In ultricies vel enim vel pulvinar. Quisque finibus sem velit, sed consequat mi ullamcorper vitae. Proin finibus tristique sollicitudin. Phasellus sit amet iaculis nisi. Duis sit amet massa cursus, dapibus erat a, eleifend justo. Cras in felis tristique, aliquet est at, ultrices leo. Donec accumsan at quam id volutpat.&lt;/p></description></item><item><title>Header image 2</title><link>https://javireguera.github.io/pixelfoster/en/header-with-title/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/header-with-title/</guid><description>&lt;p>&lt;section class="title bgimage hasbackgroundcolor">
+ &lt;div class="bgimage" style="background: url('/pixelfoster/uploads/photos/bricks_hu_baf8c1bd12ac3791.webp') center center / cover no-repeat;">
+ &lt;div class="overlay">&lt;/div>
+ &lt;div class="container small">
+ 
+&lt;h1 id="header-title">Header title&lt;/h1>
+&lt;ul class="breadcrumbs">&lt;li>&lt;a href="https://javireguera.github.io/pixelfoster/">Home&lt;/a>&lt;/li>&lt;li>&lt;a href="https://javireguera.github.io/pixelfoster/en/">Home&lt;/a>&lt;/li>&lt;li>&lt;a href="https://javireguera.github.io/pixelfoster/en/header-with-title/">Header image 2&lt;/a>&lt;/li>&lt;/ul>
+ &lt;/div>
+ &lt;/div>
+&lt;/section>
+&lt;section class="wide">
+ &lt;div class="container">
+ &lt;p>Mauris in nisi ex. Etiam ultricies ipsum id turpis blandit bibendum. Donec posuere elit nec odio vehicula blandit. Aliquam nulla velit, sagittis vitae tellus ut, efficitur faucibus diam. Maecenas id egestas sapien. Nunc sit amet ullamcorper risus. Etiam bibendum mattis ullamcorper. Nulla interdum ornare ipsum, quis efficitur libero tincidunt sed.&lt;/p>
+&lt;p>In ultricies vel enim vel pulvinar. Quisque finibus sem velit, sed consequat mi ullamcorper vitae. Proin finibus tristique sollicitudin. Phasellus sit amet iaculis nisi. Duis sit amet massa cursus, dapibus erat a, eleifend justo. Cras in felis tristique, aliquet est at, ultrices leo. Donec accumsan at quam id volutpat.&lt;/p></description></item><item><title>Header image 3</title><link>https://javireguera.github.io/pixelfoster/en/header-transparent/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/header-transparent/</guid><description>&lt;p>&lt;section class="title bgimage transparent_header hasbackgroundcolor">
+ &lt;div class="bgimage" style="background: url('/pixelfoster/uploads/photos/bricks_hu_baf8c1bd12ac3791.webp') center center / cover no-repeat;">
+ &lt;div class="overlay">&lt;/div>
+ &lt;div class="container small">
+ &lt;h1 id="build-your-next-hugo-website-with-stackable-content-bricks">Build your next Hugo website with stackable content bricks&lt;/h1>
+&lt;p>Hugobricks is a free website theme for Hugo. It makes building Hugo websites child&amp;rsquo;s play due to its stackable (LEGO-like) content bricks. How about this &amp;lsquo;intro brick&amp;rsquo; with a clear call-to-action? Stack it on top of some image bricks and a pricing table and build a complete website in seconds!&lt;/p></description></item><item><title>Headers</title><link>https://javireguera.github.io/pixelfoster/en/header-with-content/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/header-with-content/</guid><description>&lt;p>&lt;section class="title bgimage hasbackgroundcolor">
+ &lt;div class="bgimage" style="background: url('/pixelfoster/uploads/photos/bricks_hu_baf8c1bd12ac3791.webp') center center / cover no-repeat;">
+ &lt;div class="overlay">&lt;/div>
+ &lt;div class="container small">
+ &lt;h1 id="build-your-next-hugo-website-with-stackable-content-bricks">Build your next Hugo website with stackable content bricks&lt;/h1>
+&lt;p>Hugobricks is a free website theme for Hugo. It makes building Hugo websites child&amp;rsquo;s play due to its stackable (LEGO-like) content bricks. How about this &amp;lsquo;intro brick&amp;rsquo; with a clear call-to-action? Stack it on top of some image bricks and a pricing table and build a complete website in seconds!&lt;/p>
+&lt;p>&lt;a href="https://javireguera.github.io/pixelfoster/get-started/" class="button" title="Get started for free">Get started for free&lt;/a>&lt;/p></description></item><item><title>Headers</title><link>https://javireguera.github.io/pixelfoster/en/headers/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/headers/</guid><description>&lt;p>&lt;section class="title bgimage hasbackgroundcolor">
+ &lt;div class="bgimage" style="background: url('/pixelfoster/uploads/photos/bricks_hu_baf8c1bd12ac3791.webp') center center / cover no-repeat;">
+ &lt;div class="overlay">&lt;/div>
+ &lt;div class="container small">
+ 
+&lt;ul class="breadcrumbs">&lt;li>&lt;a href="https://javireguera.github.io/pixelfoster/">Home&lt;/a>&lt;/li>&lt;li>&lt;a href="https://javireguera.github.io/pixelfoster/en/">Home&lt;/a>&lt;/li>&lt;li>&lt;a href="https://javireguera.github.io/pixelfoster/en/headers/">Headers&lt;/a>&lt;/li>&lt;/ul>
+&lt;h1 id="headers">Headers&lt;/h1>
+ &lt;/div>
+ &lt;/div>
+&lt;/section>
+&lt;section class="wide">
+ &lt;div class="container">
+ &lt;p>This is a placeholder page to test the main menu. This page is the parent of a few subpages (in the menu). Breadcrumbs are based on this menu structure. Note that this only works for two level. If you need more levels you should use the &amp;lsquo;Docs&amp;rsquo; feature.&lt;/p>
+&lt;p>Lorem dolor sit amet, consectetur adipiscing elit. Nam non laoreet nisi, ac hendrerit lacus. Sed eget dapibus dui. Phasellus non ante sollicitudin, ultrices ex et, convallis orci. Etiam laoreet justo neque. Aenean nec porta mauris, ut luctus nibh. Morbi sed quam rhoncus felis tempus porttitor a nec nisl. Nulla facilisi. In suscipit velit sed lacus condimentum, at &lt;a href="https://www.google.com">fermentum&lt;/a> nulla faucibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.&lt;/p></description></item><item><title>Hiking</title><link>https://javireguera.github.io/pixelfoster/en/demo-hiking/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/demo-hiking/</guid><description>&lt;p>&lt;section class="title bgimage hasbackgroundcolor">
+ &lt;div class="bgimage" style="background: url('/pixelfoster/uploads/photos/hike/hike1_hu_c7fe998d673120df.webp') center center / cover no-repeat;">
+ &lt;div class="overlay">&lt;/div>
+ &lt;div class="container small">
+ 
+&lt;h1 id="your-current-website-theme-can-take-a-hike">Your current website theme can take a hike!&lt;/h1>
+&lt;p>Hugobricks is a free website theme for Hugo. It makes building Hugo websites child&amp;rsquo;s play due to its stackable (LEGO-like) content bricks. How about this &amp;lsquo;intro brick&amp;rsquo; with a clear call-to-action? Stack it on top of some image bricks and a pricing table and build a complete website in seconds!&lt;/p>
+&lt;p>&lt;a href="https://javireguera.github.io/pixelfoster/get-started/" class="button" title="Get started for free">Get started for free&lt;/a>&lt;/p></description></item><item><title>Images</title><link>https://javireguera.github.io/pixelfoster/en/images/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/images/</guid><description>&lt;p>&lt;section class="title bgimage transparent_header hasbackgroundcolor">
+ &lt;div class="bgimage" style="background: url('/pixelfoster/uploads/gallery/05_hu_2e81192366fb823a.webp') center center / cover no-repeat;">
+ &lt;div class="overlay">&lt;/div>
+ &lt;div class="container small">
+ &lt;h1 id="the-sky-is-the-limit-with-hugobricks">The sky is the limit, with Hugobricks!&lt;/h1>
+&lt;p>Hugobricks is a free website theme for Hugo. It makes building Hugo websites child&amp;rsquo;s play due to its stackable (LEGO-like) content bricks. How about this &amp;lsquo;intro brick&amp;rsquo; with a clear call-to-action? Stack it on top of some image bricks and a pricing table and build a complete website in seconds!&lt;/p>
+&lt;p>&lt;a href="https://javireguera.github.io/pixelfoster/get-started/" class="button" title="Get started for free">Get started for free&lt;/a>&lt;/p></description></item><item><title>intro</title><link>https://javireguera.github.io/pixelfoster/en/bricks/intro/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/bricks/intro/</guid><description>&lt;h1 id="the-ultimate-theme-you-need-to-start-your-hugo-website">The Ultimate Theme You Need To Start Your Hugo Website&lt;/h1>
+&lt;p>Hugobricks is a free website theme built with Hugo and vanilla CSS, providing everything you need to jumpstart your Hugo website and save valuable time.&lt;/p>
+&lt;a href="https://javireguera.github.io/pixelfoster/get-started/" class="button" title="Get started for free">Get started for free&lt;/a>
+
+
+&lt;p>&lt;img src="https://javireguera.github.io/pixelfoster/uploads/brick_intro.png" alt="">&lt;/p></description></item><item><title>map</title><link>https://javireguera.github.io/pixelfoster/en/bricks/map/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/bricks/map/</guid><description>&lt;p>&lt;img src="https://javireguera.github.io/pixelfoster/uploads/map.png" alt="">&lt;/p>
+&lt;p>&lt;a href="https://www.google.com/maps">Google Maps&lt;/a>&lt;/p>
+&lt;h2 id="contact-us">Contact us&lt;/h2>
+&lt;p>Usecue BV&lt;br>
+Soetendaal 7&lt;br>
+1081BL Amsterdam&lt;br>
+The Netherlands&lt;/p>
+
+&lt;ul class="buttons">&lt;li>&lt;a href="tel:&amp;#43;31618518928" class="button icon">&lt;img src="https://javireguera.github.io/pixelfoster/img/phone.svg" alt="&amp;#43;31 618 51 89 28" />&lt;/a>&lt;/li>&lt;li>&lt;a href="mailto:joost@vdschee.nl" class="button icon">&lt;img src="https://javireguera.github.io/pixelfoster/img/email.svg" alt="joost@vdschee.nl" />&lt;/a>&lt;/li>&lt;/ul></description></item><item><title>Our team</title><link>https://javireguera.github.io/pixelfoster/en/team/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/team/</guid><description>&lt;p>&lt;section class="features">
+ &lt;div class="container small">&lt;ul class="breadcrumbs">&lt;li>&lt;a href="https://javireguera.github.io/pixelfoster/">Home&lt;/a>&lt;/li>&lt;li>&lt;a href="https://javireguera.github.io/pixelfoster/en/">Home&lt;/a>&lt;/li>&lt;li>&lt;a href="https://javireguera.github.io/pixelfoster/en/team/">Our team&lt;/a>&lt;/li>&lt;/ul>
+&lt;h1 id="our-team">Our team&lt;/h1>
+&lt;p>Lorem dolor sit amet, consectetur adipiscing elit. Nam non laoreet nisi, ac hendrerit lacus. Sed eget dapibus dui. Phasellus non ante sollicitudin, ultrices ex et, convallis orci. Etiam laoreet justo neque. Aenean nec porta mauris, ut luctus nibh.&lt;/p>&lt;/div>
+ &lt;div class="container">
+ &lt;ul class="grid people">&lt;li>
+ &lt;div class="box">
+ &lt;img src="https://javireguera.github.io/pixelfoster/uploads/photos/avatars/2.jpeg" alt="Gitio Hamano" class="avatar colorize_image" />
+ &lt;h3>Gitio Hamano&lt;/h3>
+ &lt;div class="function">Source Code version controller&lt;/div>
+ &lt;p>Rings of Uranus hearts of the stars corpus callosum invent the universe take root and flourish concept of the number one.&lt;/p></description></item><item><title>Page not found (404)</title><link>https://javireguera.github.io/pixelfoster/en/404/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/404/</guid><description>&lt;section class="error404">
+ &lt;div class="container small">
+ &lt;p>&lt;img src="https://javireguera.github.io/pixelfoster/uploads/illustrations/cuate/error.svg" alt="">&lt;/p>
+&lt;h1 id="oops-something-went-wrong">Oops! Something went wrong!&lt;/h1>
+&lt;p>&lt;a href="https://javireguera.github.io/pixelfoster/" class="button" title="Back to home">Back to home&lt;/a>&lt;/p>
+
+ &lt;/div>
+&lt;/section></description></item><item><title>Paragliding</title><link>https://javireguera.github.io/pixelfoster/en/demo-paragliding/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/demo-paragliding/</guid><description>&lt;p>&lt;section class="title bgimage transparent_header hasbackgroundcolor">
+ &lt;div class="bgimage" style="background: url('/pixelfoster/uploads/photos/paragliding/flyspot15_hu_d7d5032c448393f6.webp') center center / cover no-repeat;">
+ &lt;div class="overlay">&lt;/div>
+ &lt;div class="container small">
+ &lt;h1 id="the-sky-is-the-limit-with-hugobricks">The sky is the limit, with Hugobricks!&lt;/h1>
+&lt;p>Hugobricks is a free website theme for Hugo. It makes building Hugo websites child&amp;rsquo;s play due to its stackable (LEGO-like) content bricks. How about this &amp;lsquo;intro brick&amp;rsquo; with a clear call-to-action? Stack it on top of some image bricks and a pricing table and build a complete website in seconds!&lt;/p>
+&lt;p>&lt;a href="https://javireguera.github.io/pixelfoster/get-started/" class="button" title="Get started for free">Get started for free&lt;/a>&lt;/p></description></item><item><title>Payment</title><link>https://javireguera.github.io/pixelfoster/en/bricks/payment/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/bricks/payment/</guid><description>&lt;h1 id="choose-your-payment-method">Choose your payment method&lt;/h1>
+&lt;p>You will be paying &amp;lsquo;Usecue&amp;rsquo; and you will see your order number as a reference. You will have to pay &lt;span id="paymenttotal">&lt;/span>.&lt;/p>
+&lt;div id="smart-button-container" style="max-width: 350px;">
+
+ &lt;input type="hidden" name="descriptionInput" id="description">
+ &lt;input type="hidden" name="amountInput" id="amount">
+ &lt;input type="hidden" name="invoiceid" id="invoiceid">
+
+ &lt;script>
+ window.onload = function() {
+ var amount = (getCartTotal() + getAddonTotal()).toFixed(2); 
+ var ordernumber = localStorage.getItem('ordernumber');
+ 
+ document.getElementById('description').value = ordernumber;
+ document.getElementById('invoiceid').value = ordernumber;
+ document.getElementById('amount').value = amount;
+ }
+ &lt;/script>
+ &lt;div style="text-align: center; margin-top: 0.625rem;" id="paypal-button-container">&lt;/div>
+&lt;/div>
+
+&lt;script src="https://www.paypal.com/sdk/js?client-id=ARLAOALKgJkpvAynfrxup8sP6NiLzBTpe6leWyLs7QJHnUMsCt8tKKVFWJzLg4zP0jky8IlPddUX2YCt&amp;currency=USD&amp;components=buttons">&lt;/script>
+&lt;script>
+
+function initPayPalButton() {
+
+var amount = document.querySelector('#smart-button-container #amount');
+var description = document.querySelector('#smart-button-container #description');
+var invoiceid = document.querySelector('#smart-button-container #invoiceid');
+
+var purchase_units = [];
+purchase_units[0] = {};
+purchase_units[0].amount = {};
+
+function validate(event) {
+ return event.value.length > 0;
+}
+
+paypal.Buttons({
+ style: {
+ color: 'blue',
+ shape: 'pill',
+ label: 'pay',
+ layout: 'vertical',
+ 
+ },
+
+ onInit: function (data, actions) {
+ 
+ },
+
+ onClick: function () {
+ 
+ purchase_units[0].description = description.value;
+ purchase_units[0].amount.value = amount.value
+
+ if(invoiceid.value !== '') {
+ purchase_units[0].invoice_id = invoiceid.value;
+ }
+ },
+
+ createOrder: function (data, actions) {
+ return actions.order.create({
+ purchase_units: purchase_units,
+ });
+ },
+
+ onApprove: function (data, actions) {
+ return actions.order.capture().then(function (details) {
+ alert('Transaction completed by ' + details.payer.name.given_name + '!');
+ });
+ },
+
+ onError: function (err) {
+ console.log(err);
+ }
+}).render('#paypal-button-container');
+}
+initPayPalButton();
+&lt;/script></description></item><item><title>Payment</title><link>https://javireguera.github.io/pixelfoster/en/payment/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/payment/</guid><description>&lt;section class="payment">
+ &lt;div class="container small">&lt;h1 id="choose-your-payment-method">Choose your payment method&lt;/h1>
+&lt;p>You will be paying &amp;lsquo;Usecue&amp;rsquo; and you will see your order number as a reference. You will have to pay &lt;span id="paymenttotal">&lt;/span>.&lt;/p>
+&lt;div id="smart-button-container" style="max-width: 350px;">
+
+ &lt;input type="hidden" name="descriptionInput" id="description">
+ &lt;input type="hidden" name="amountInput" id="amount">
+ &lt;input type="hidden" name="invoiceid" id="invoiceid">
+
+ &lt;script>
+ window.onload = function() {
+ var amount = (getCartTotal() + getAddonTotal()).toFixed(2); 
+ var ordernumber = localStorage.getItem('ordernumber');
+ 
+ document.getElementById('description').value = ordernumber;
+ document.getElementById('invoiceid').value = ordernumber;
+ document.getElementById('amount').value = amount;
+ }
+ &lt;/script>
+ &lt;div style="text-align: center; margin-top: 0.625rem;" id="paypal-button-container">&lt;/div>
+&lt;/div>
+
+&lt;script src="https://www.paypal.com/sdk/js?client-id=ARLAOALKgJkpvAynfrxup8sP6NiLzBTpe6leWyLs7QJHnUMsCt8tKKVFWJzLg4zP0jky8IlPddUX2YCt&amp;currency=USD&amp;components=buttons">&lt;/script>
+&lt;script>
+
+function initPayPalButton() {
+
+var amount = document.querySelector('#smart-button-container #amount');
+var description = document.querySelector('#smart-button-container #description');
+var invoiceid = document.querySelector('#smart-button-container #invoiceid');
+
+var purchase_units = [];
+purchase_units[0] = {};
+purchase_units[0].amount = {};
+
+function validate(event) {
+ return event.value.length > 0;
+}
+
+paypal.Buttons({
+ style: {
+ color: 'blue',
+ shape: 'pill',
+ label: 'pay',
+ layout: 'vertical',
+ 
+ },
+
+ onInit: function (data, actions) {
+ 
+ },
+
+ onClick: function () {
+ 
+ purchase_units[0].description = description.value;
+ purchase_units[0].amount.value = amount.value
+
+ if(invoiceid.value !== '') {
+ purchase_units[0].invoice_id = invoiceid.value;
+ }
+ },
+
+ createOrder: function (data, actions) {
+ return actions.order.create({
+ purchase_units: purchase_units,
+ });
+ },
+
+ onApprove: function (data, actions) {
+ return actions.order.capture().then(function (details) {
+ alert('Transaction completed by ' + details.payer.name.given_name + '!');
+ });
+ },
+
+ onError: function (err) {
+ console.log(err);
+ }
+}).render('#paypal-button-container');
+}
+initPayPalButton();
+&lt;/script>&lt;/div>
+&lt;/section>
+
+
+&lt;script src='https://javireguera.github.io/pixelfoster/js/webshop.js'>&lt;/script>
+&lt;script>
+ var carttotal = getCartTotal();
+ var addontotal = getAddonTotal();
+ var paymenttotal = parseFloat(carttotal + addontotal).toFixed(2);
+ const currencySymbol = '$';
+ if(document.getElementById('paymenttotal')) document.getElementById('paymenttotal').innerHTML = `${ currencySymbol }${paymenttotal}`;
+&lt;/script></description></item><item><title>POS software</title><link>https://javireguera.github.io/pixelfoster/en/demo-pos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/demo-pos/</guid><description>&lt;p>&lt;section class="intro">
+ &lt;div class="container small">&lt;h1 id="let-hugobricks-help-you-sell-more">Let Hugobricks help you sell more!&lt;/h1>
+&lt;p>Hugobricks is a free website theme for Hugo. It makes building Hugo websites child&amp;rsquo;s play due to its stackable (LEGO-like) content bricks. How about this &amp;lsquo;intro brick&amp;rsquo; with a clear call-to-action? Stack it on top of some image bricks and a pricing table and build a complete website in seconds!&lt;/p>
+&lt;p>&lt;a href="https://javireguera.github.io/pixelfoster/get-started/" class="button" title="Get started for free">Get started for free&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://javireguera.github.io/pixelfoster/uploads/illustrations/cuate/blue/ecommerce-checkout-laptop-cuate.svg" alt="">&lt;/p>
+&lt;/div>
+&lt;/section>
+
+
+
+
+&lt;section class="image alt hasbackgroundcolor">
+ &lt;div class="container twocols">
+ &lt;div class="text">
+ &lt;h2 id="whats-included-in-hugobricks">What’s included in Hugobricks?&lt;/h2>
+
+&lt;p>Hugobricks is a comprehensive starter theme that includes everything you need to get started with your Hugo project. As all the Wordpress theme builders say: This is the last theme you will ever need. Included are:&lt;/p></description></item><item><title>Poulterer</title><link>https://javireguera.github.io/pixelfoster/en/demo-poulterer/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/demo-poulterer/</guid><description>&lt;p>&lt;section class="title bgimage hasbackgroundcolor">
+ &lt;div class="bgimage" style="background: url('/pixelfoster/uploads/photos/poulterer/1_hu_e3a93cd13801d219.webp') center center / cover no-repeat;">
+ &lt;div class="overlay">&lt;/div>
+ &lt;div class="container small">
+ &lt;h1 id="build-your-next-hugo-website-with-stackable-content-bricks">Build your next Hugo website with stackable content bricks&lt;/h1>
+&lt;p>Hugobricks is a free website theme for Hugo. It makes building Hugo websites child&amp;rsquo;s play due to its stackable (LEGO-like) content bricks. How about this &amp;lsquo;intro brick&amp;rsquo; with a clear call-to-action? Stack it on top of some image bricks and a pricing table and build a complete website in seconds!&lt;/p>
+&lt;p>&lt;a href="https://javireguera.github.io/pixelfoster/get-started/" class="button" title="Get started for free">Get started for free&lt;/a>&lt;/p></description></item><item><title>prices</title><link>https://javireguera.github.io/pixelfoster/en/bricks/prices/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/bricks/prices/</guid><description>&lt;h2 id="our-friendly-pricing">Our friendly pricing&lt;/h2>
+&lt;p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.&lt;/p>
+&lt;hr>
+&lt;p>&lt;strong>budget&lt;/strong>&lt;/p>
+&lt;h3 id="open-source">Open-source&lt;/h3>
+&lt;p>Full-featured theme/page builder to create super fast &amp;amp; amazing website&lt;/p>
+&lt;h3 id="0month">&lt;em>$&lt;/em>&lt;strong>0&lt;/strong>/month&lt;/h3>
+&lt;ul>
+&lt;li>Hugobricks theme/code&lt;/li>
+&lt;li>All available bricks&lt;/li>
+&lt;li>Regular updates&lt;/li>
+&lt;li>Bug fixes &amp;amp; security patches&lt;/li>
+&lt;/ul>
+&lt;p>&lt;a href="https://javireguera.github.io/pixelfoster/get-started/">Get started&lt;/a>&lt;/p>
+&lt;hr>
+&lt;p>&lt;strong>most popular&lt;/strong>&lt;/p>
+&lt;h3 id="hosted">Hosted&lt;/h3>
+&lt;p>Everything in one toolkit – We host your website on our top-notch infrastructure.&lt;/p></description></item><item><title>Privacy policy</title><link>https://javireguera.github.io/pixelfoster/en/privacy-policy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/privacy-policy/</guid><description>&lt;p>&lt;section class="title">
+ &lt;div class="container small">&lt;h1 id="privacy-policy">Privacy policy&lt;/h1>
+&lt;p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.&lt;/p>&lt;/div>
+&lt;/section>
+&lt;section class="wide">
+ &lt;div class="container">
+ &lt;h2 id="article-1">Article 1&lt;/h2>
+&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc feugiat, nulla et scelerisque volutpat, elit felis condimentum odio, et bibendum lacus sem sed turpis. Quisque aliquet orci quis massa scelerisque gravida. Cras maximus lacus et orci lacinia fermentum. Integer venenatis bibendum condimentum. Maecenas non rutrum magna. Sed varius metus sit amet augue condimentum, quis faucibus nulla tempor. Phasellus nec ipsum dolor. Aliquam non maximus orci.&lt;/p></description></item><item><title>quote</title><link>https://javireguera.github.io/pixelfoster/en/bricks/quote/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/bricks/quote/</guid><description>&lt;h2 id="ready-to-build-your-next-project-with-hugobricks">&amp;ldquo;Ready to build your next project with Hugobricks?&amp;rdquo;&lt;/h2>
+&lt;p>— Lorem ipsum dolor&lt;/p></description></item><item><title>Reviews</title><link>https://javireguera.github.io/pixelfoster/en/bricks/reviews/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/bricks/reviews/</guid><description>&lt;h2 id="what-users-say-about-hugobricks">What users say about Hugobricks&lt;/h2>
+&lt;p>Don&amp;rsquo;t just take our word for it - hear from some of our satisfied users! Check out some of our testimonials below to see what others are saying about Hugobricks.&lt;/p></description></item><item><title>Search</title><link>https://javireguera.github.io/pixelfoster/en/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/search/</guid><description>&lt;section class="wide">
+ &lt;div class="container">
+ &lt;ul class="breadcrumbs">&lt;li>&lt;a href="https://javireguera.github.io/pixelfoster/">Home&lt;/a>&lt;/li>&lt;li>&lt;a href="https://javireguera.github.io/pixelfoster/en/">Home&lt;/a>&lt;/li>&lt;li>&lt;a href="https://javireguera.github.io/pixelfoster/en/search/">Search&lt;/a>&lt;/li>&lt;/ul>
+&lt;h1 id="search">Search&lt;/h1>
+&lt;form method="get" id="search-google" action="http://www.google.com/search" target="_blank">
+ &lt;div>
+ &lt;input type="hidden" name="sitesearch" value="https://javireguera.github.io/pixelfoster/" />
+ &lt;input type="text" name="q" maxlength="255" value="" placeholder="Search via Google" class="form-control" />
+ &lt;/div>
+&lt;/form>
+
+ &lt;/div>
+&lt;/section></description></item><item><title>Second service</title><link>https://javireguera.github.io/pixelfoster/en/services/second-serice/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/services/second-serice/</guid><description>&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus cursus egestas arcu, in vestibulum tortor pellentesque vitae. Curabitur dapibus tempor libero id vulputate. Proin sodales, nisi quis laoreet commodo, sapien quam consectetur lorem, ut molestie augue eros in enim. Nam tincidunt lobortis sapien, et molestie urna viverra sollicitudin. In hac habitasse platea dictumst. Donec placerat vestibulum luctus. Sed vel convallis nisi.&lt;/p>
+&lt;p>Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla porta faucibus diam, vitae accumsan odio posuere rhoncus. Nunc pellentesque felis id sapien posuere, et commodo nisi pharetra. Cras pulvinar, urna iaculis pretium facilisis, odio dolor dictum leo, et fringilla libero ante eget elit. Vestibulum quis volutpat ligula. Fusce porta et mi luctus convallis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla id turpis tempor, euismod quam in, sollicitudin nisi. Vivamus a enim bibendum, posuere orci ac, lacinia erat. Morbi varius sapien efficitur, pellentesque elit in, feugiat risus. Vivamus in scelerisque nulla. Interdum et malesuada fames ac ante ipsum primis in faucibus.&lt;/p></description></item><item><title>Services</title><link>https://javireguera.github.io/pixelfoster/en/our-services/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/our-services/</guid><description>&lt;p>&lt;section class="posts">
+ &lt;div class="container small">&lt;ul class="breadcrumbs">&lt;li>&lt;a href="https://javireguera.github.io/pixelfoster/">Home&lt;/a>&lt;/li>&lt;li>&lt;a href="https://javireguera.github.io/pixelfoster/en/">Home&lt;/a>&lt;/li>&lt;li>&lt;a href="https://javireguera.github.io/pixelfoster/en/our-services/">Services&lt;/a>&lt;/li>&lt;/ul>
+&lt;h1 id="services">Services&lt;/h1>
+&lt;p>This is a demo of the services page. In ultricies vel enim vel pulvinar. Quisque finibus sem velit, sed consequat mi ullamcorper vitae. Proin finibus tristique sollicitudin.&lt;/p>&lt;/div>
+ &lt;div class="container">
+ &lt;div class="filter">
+ &lt;select id="filter" class="multiselecttags numbers_true" multiple autocomplete="off">
+ 
+ &lt;/select>
+ &lt;/div>
+ &lt;ul class="contentitems grid posts" data-pagesize="99">
+ 
+ &lt;li class="item tag_">&lt;a href="https://javireguera.github.io/pixelfoster/services/first-service/">&lt;div class="img">&lt;img data-src="https://javireguera.github.io/pixelfoster/uploads/photos/06_hu_a1a891302e73f174.jpg" alt="First service" style="cursor: pointer;" onclick="document.location.href='\/pixelfoster\/services\/first-service\/';" />&lt;/div>&lt;/a>&lt;h3>First service&lt;/h3>
+ 
+ &lt;div class="summary">
+ &lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus cursus egestas arcu, in vestibulum tortor pellentesque vitae. Curabitur dapibus tempor libero id vulputate. Proin sodales, ni...&lt;/p>
+ &lt;p>&lt;a href="https://javireguera.github.io/pixelfoster/services/first-service/" class="button ghost smaller">&lt;/a>&lt;/p></description></item><item><title>Third service</title><link>https://javireguera.github.io/pixelfoster/en/services/third-serice/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/services/third-serice/</guid><description>&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus cursus egestas arcu, in vestibulum tortor pellentesque vitae. Curabitur dapibus tempor libero id vulputate. Proin sodales, nisi quis laoreet commodo, sapien quam consectetur lorem, ut molestie augue eros in enim. Nam tincidunt lobortis sapien, et molestie urna viverra sollicitudin. In hac habitasse platea dictumst. Donec placerat vestibulum luctus. Sed vel convallis nisi.&lt;/p>
+&lt;p>Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla porta faucibus diam, vitae accumsan odio posuere rhoncus. Nunc pellentesque felis id sapien posuere, et commodo nisi pharetra. Cras pulvinar, urna iaculis pretium facilisis, odio dolor dictum leo, et fringilla libero ante eget elit. Vestibulum quis volutpat ligula. Fusce porta et mi luctus convallis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla id turpis tempor, euismod quam in, sollicitudin nisi. Vivamus a enim bibendum, posuere orci ac, lacinia erat. Morbi varius sapien efficitur, pellentesque elit in, feugiat risus. Vivamus in scelerisque nulla. Interdum et malesuada fames ac ante ipsum primis in faucibus.&lt;/p></description></item><item><title>Webshop</title><link>https://javireguera.github.io/pixelfoster/en/bricks/webshop/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/bricks/webshop/</guid><description>&lt;h1 id="webshop">Webshop&lt;/h1>
+&lt;p>This is a demo of the webshop. In ultricies vel enim vel pulvinar. Quisque finibus sem velit, sed consequat mi ullamcorper vitae. Proin finibus tristique sollicitudin.&lt;/p></description></item><item><title>Webshop</title><link>https://javireguera.github.io/pixelfoster/en/webshop/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/webshop/</guid><description>&lt;section class="webshop-brick">
+ &lt;div class="container small" style="text-align: center;">&lt;h1 id="webshop">Webshop&lt;/h1>
+&lt;p>This is a demo of the webshop. In ultricies vel enim vel pulvinar. Quisque finibus sem velit, sed consequat mi ullamcorper vitae. Proin finibus tristique sollicitudin.&lt;/p>&lt;/div>
+ &lt;div class="container" style="padding-top: 3rem;">
+	&lt;ul class="contentitems grid posts products" data-pagesize="3">
+ 
+ &lt;li class="item">&lt;a href="https://javireguera.github.io/pixelfoster/webshop/buy-me-a-coffee/">&lt;div class="img">&lt;img src="https://javireguera.github.io/pixelfoster/uploads/products/coffee/1_hu_223034f6f5f4a2f8.jpg" alt="Buy me a coffee" style="cursor: pointer;" onclick="document.location.href='\/pixelfoster\/webshop\/buy-me-a-coffee\/';" />&lt;/div>&lt;/a>&lt;h3>Buy me a coffee&lt;/h3>
+ &lt;div class="summary">
+ &lt;p>A perfect coffee in the morning absolutely makes my day. Buy me a small one for a good start or a big one to keep going all day!
+...&lt;/p></description></item></channel></rss>

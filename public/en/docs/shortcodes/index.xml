@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Shortcodes on</title><link>https://javireguera.github.io/pixelfoster/en/docs/shortcodes/</link><description>Recent content in Shortcodes on</description><generator>Hugo</generator><language>en</language><atom:link href="https://javireguera.github.io/pixelfoster/en/docs/shortcodes/index.xml" rel="self" type="application/rss+xml"/><item><title>Breadcrumbs</title><link>https://javireguera.github.io/pixelfoster/en/docs/shortcodes/breadcrumbs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/docs/shortcodes/breadcrumbs/</guid><description>&lt;p>Breadcrumb paths are a single line of links (often placed above the title) that show a page&amp;rsquo;s location in the site hierarchy. Every website should have breadcrumbs, as it benefits SEO as well as the users understanding of the sites structure. See in action on the &lt;a href="https://javireguera.github.io/pixelfoster/elements/">Elements page&lt;/a>. To show the breadcrumbs, write the following &amp;lsquo;code&amp;rsquo;:&lt;/p>
+&lt;pre tabindex="0">&lt;code>{{&amp;lt; breadcrumbs &amp;gt;}}
+&lt;/code>&lt;/pre>&lt;!--&lt;ul class="breadcrumbs">&lt;li>&lt;a href="https://javireguera.github.io/pixelfoster/">Home&lt;/a>&lt;/li>&lt;li>&lt;a href="https://javireguera.github.io/pixelfoster/en/">Home&lt;/a>&lt;/li>&lt;li>&lt;a href="https://javireguera.github.io/pixelfoster/en/docs/">Documentation&lt;/a>&lt;/li>&lt;li>&lt;a href="https://javireguera.github.io/pixelfoster/en/docs/shortcodes/breadcrumbs/">Shortcodes&lt;/a>&lt;/li>&lt;/ul>
+--></description></item><item><title>Button</title><link>https://javireguera.github.io/pixelfoster/en/docs/shortcodes/button/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/docs/shortcodes/button/</guid><description>&lt;p>Buttons are a great way to drive conversion. They are actually links with the class &amp;lsquo;button&amp;rsquo;. You can see them in action on the &lt;a href="https://javireguera.github.io/pixelfoster/elements/">Elements page&lt;/a>. To show a button, write the following &amp;lsquo;code&amp;rsquo;:&lt;/p>
+&lt;pre tabindex="0">&lt;code>{{&amp;lt; button &amp;#34;Get started for free&amp;#34; &amp;#34;/get-started/&amp;#34; &amp;gt;}}
+&lt;/code>&lt;/pre>&lt;!--&lt;a href="https://javireguera.github.io/pixelfoster/get-started/" class="button" title="Get started for free">Get started for free&lt;/a>
+
+--></description></item><item><title>Contact buttons</title><link>https://javireguera.github.io/pixelfoster/en/docs/shortcodes/contactbuttons/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/docs/shortcodes/contactbuttons/</guid><description>&lt;p>Contact buttons offer a quick and visual way to contact the site owner. The settings for these buttons can be found in the &amp;lsquo;contact&amp;rsquo; section of the &amp;lsquo;general.yaml&amp;rsquo; file in the data directory. You can see the contact buttons in action on the &lt;a href="https://javireguera.github.io/pixelfoster/elements/">Elements page&lt;/a>. To show the contact buttons, write the following shortcode:&lt;/p>
+&lt;pre tabindex="0">&lt;code>{{&amp;lt; contactbuttons &amp;gt;}}
+&lt;/code>&lt;/pre>&lt;!--
+&lt;ul class="buttons">&lt;li>&lt;a href="tel:&amp;#43;31618518928" class="button icon">&lt;img src="https://javireguera.github.io/pixelfoster/img/phone.svg" alt="&amp;#43;31 618 51 89 28" />&lt;/a>&lt;/li>&lt;li>&lt;a href="mailto:joost@vdschee.nl" class="button icon">&lt;img src="https://javireguera.github.io/pixelfoster/img/email.svg" alt="joost@vdschee.nl" />&lt;/a>&lt;/li>&lt;/ul>--></description></item><item><title>Contact form</title><link>https://javireguera.github.io/pixelfoster/en/docs/shortcodes/contact-form/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/docs/shortcodes/contact-form/</guid><description>&lt;p>The contact form is an essential part for your websites conversion. The settings for this form can be found in the &amp;lsquo;contactform.yaml&amp;rsquo; file in the data directory. You can see the form in action on the &lt;a href="https://javireguera.github.io/pixelfoster/elements/">Elements page&lt;/a>. To show the contact form in your content, write the following shortcode:&lt;/p>
+&lt;pre tabindex="0">&lt;code>{{&amp;lt; contactform &amp;gt;}}
+&lt;/code>&lt;/pre>&lt;!--&lt;img src="https://javireguera.github.io/pixelfoster/form.php" style="position: absolute; opacity: 0; pointer-events: none;" />
+&lt;form id="contactform" class="form" method="POST" action="https://javireguera.github.io/pixelfoster/form.php">&lt;h3>Tell us a bit about yourself&lt;/h3>&lt;div>
+ &lt;label class="inborder" for="name">Name&lt;/label>
+ &lt;input type="text" name="name" id="name" class="form-control" required>
+ &lt;/div>&lt;div>
+ &lt;label class="inborder" for="email">Email address&lt;/label>
+ &lt;input type="email" name="email" id="email" class="form-control" required>
+ &lt;/div>&lt;div>
+ &lt;label class="inborder" for="message">Message&lt;/label>
+ &lt;textarea name="message" name="message" id="message" cols="30" rows="10" class="form-control" required>&lt;/textarea>
+ &lt;/div>&lt;div class="checkbox">
+ &lt;label>&lt;input type="checkbox" name="terms" value="I accept the terms and conditions" required>I accept the terms and conditions&lt;/label>
+ &lt;/div>&lt;div class="submit">
+ &lt;div>&lt;input type="submit" value="Submit form" class="button" />&lt;/div>
+ &lt;/div>&lt;/form>--></description></item><item><title>CTA form</title><link>https://javireguera.github.io/pixelfoster/en/docs/shortcodes/cta-form/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/docs/shortcodes/cta-form/</guid><description>&lt;p>A CTA (call to action) form is an essential part for your websites conversion. The settings for this form can be found in the &amp;lsquo;ctaform.yaml&amp;rsquo; file in the data directory. You can see the form in action on the &lt;a href="https://javireguera.github.io/pixelfoster/elements/">Elements page&lt;/a>. To show the contact form in your content, write the following shortcode:&lt;/p>
+&lt;pre tabindex="0">&lt;code>{{&amp;lt; ctaform &amp;gt;}}
+&lt;/code>&lt;/pre>&lt;!--&lt;img src="https://javireguera.github.io/pixelfoster/form.php" style="position: absolute; opacity: 0; pointer-events: none;" />
+&lt;form id="contactform" class="form" method="POST" action="https://javireguera.github.io/pixelfoster/form.php">&lt;h3>Enter your details below&lt;/h3>&lt;div>
+ &lt;label class="inborder" for="name">Name&lt;/label>
+ &lt;input type="text" name="name" id="name" class="form-control" required>
+ &lt;/div>&lt;div>
+ &lt;label class="inborder" for="email">Email address&lt;/label>
+ &lt;input type="email" name="email" id="email" class="form-control" required>
+ &lt;/div>&lt;div>
+ &lt;label class="inborder" for="message">Message&lt;/label>
+ &lt;textarea name="message" name="message" id="message" cols="30" rows="10" class="form-control" required>&lt;/textarea>
+ &lt;/div>&lt;div class="checkbox">
+ &lt;label>&lt;input type="checkbox" name="terms" value="I accept the terms and conditions" required>I accept the terms and conditions&lt;/label>
+ &lt;/div>&lt;div class="submit">
+ &lt;div>&lt;input type="submit" value="Submit form" class="button" />&lt;/div>
+ &lt;/div>&lt;/form>--></description></item><item><title>F.A.Q.</title><link>https://javireguera.github.io/pixelfoster/en/docs/shortcodes/faq/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/docs/shortcodes/faq/</guid><description>&lt;p>Want to add a block with the most frequently asked questions? Then use the code below. Do you want to see it in action? Have a look at the &lt;a href="https://javireguera.github.io/pixelfoster/faq/">FAQ page&lt;/a> or the &lt;a href="https://javireguera.github.io/pixelfoster/elements/">Elements page&lt;/a>.&lt;/p>
+&lt;pre tabindex="0">&lt;code>{{&amp;lt; faq &amp;gt;}}
+&lt;/code>&lt;/pre>&lt;!--&lt;h3>Hugobricks theme&lt;/h3>
+			&lt;div>&lt;details>
+						&lt;summary>Why choose Hugobricks for my next project?&lt;/summary>
+						&lt;div>&lt;div>Hugo allows you to build a fast, efficient, and scalable website. It offers you a clean separation of concerns, content vs layout and styles. The Hugobricks brings a pagebuilder to that workflow.&lt;/div>&lt;/div>
+					&lt;/details>&lt;details>
+						&lt;summary>I need to develop a performant website. Does Hugobricks offer a good performance?&lt;/summary>
+						&lt;div>&lt;div>Hugobricks is renowned for its exceptional speed and performance. It is built using the Go programming language, which enables it to generate websites at an astonishing pace. Whether you have a small blog or a large enterprise site, Hugobricks’s speed ensures that your pages load quickly, providing an excellent user experience. This advantage becomes especially significant when dealing with large websites or making frequent updates.&lt;/div>&lt;/div>
+					&lt;/details>&lt;/div>&lt;h3>Scalability, ease of use and flexibility?&lt;/h3>
+			&lt;div>&lt;details>
+						&lt;summary>What about scalability and portability&lt;/summary>
+						&lt;div>&lt;div>Whether you’re building a personal blog or a large-scale enterprise website, Hugobricks scales effortlessly. Its ability to handle thousands of pages with consistent speed and efficiency makes it an ideal choice for projects of any size. Moreover, Hugobricks generates static websites that can be hosted on any web server or content delivery network (CDN) without any specific server requirements, ensuring portability and easy deployment.&lt;/div>&lt;/div>
+					&lt;/details>&lt;details>
+						&lt;summary>How easy is it to set up?&lt;/summary>
+						&lt;div>&lt;div>Hugobricks offers a straightforward and hassle-free setup process. It comes with pre-built binaries for various operating systems, making it accessible to developers across different platforms. Additionally, Hugobricks has a user-friendly command-line interface (CLI) that allows you to create and manage your site effortlessly. Its simplicity makes it a great choice for both experienced developers and beginners alike.&lt;/div>&lt;/div>
+					&lt;/details>&lt;details>
+						&lt;summary>How flexible is the offered architecture?&lt;/summary>
+						&lt;div>&lt;div>Hugobricks provides a flexible architecture that empowers developers to create websites tailored to their specific needs. With its powerful templating system, you can easily customize the look and feel of your site. Hugobricks supports a wide range of themes, allowing you to choose from a vast collection or create your own. Furthermore, its extensive plugin ecosystem enables you to extend its functionality and add features seamlessly.&lt;/div>&lt;/div>
+					&lt;/details>&lt;/div>&lt;h3>Markdown content and SEO&lt;/h3>
+			&lt;div>&lt;details>
+						&lt;summary>What about Markdown and content management?&lt;/summary>
+						&lt;div>&lt;div>Content creation and management are made convenient with Hugobricks. It supports Markdown, a lightweight markup language that simplifies the process of writing content-rich web pages. Markdown’s simplicity and readability make it a favorite among writers and developers alike. Hugobricks’s content organization system allows you to easily structure your content, making it effortless to manage and update your website’s information.&lt;/div>&lt;/div>
+					&lt;/details>&lt;details>
+						&lt;summary>What about SEO-friendliness?&lt;/summary>
+						&lt;div>&lt;div>Hugobricks is designed with search engine optimization (SEO) in mind. It generates clean HTML markup, adhering to best practices for search engine discoverability. This helps your site rank higher in search engine results, increasing its visibility to potential visitors.&lt;/div>&lt;/div>
+					&lt;/details>&lt;details>
+						&lt;summary>What about hugobricks security?&lt;/summary>
+						&lt;div>&lt;div>Additionally, Hugobricks’s static nature eliminates the need for databases or complex server configurations, making it inherently more secure than dynamic content management systems.&lt;/div>&lt;/div>
+					&lt;/details>&lt;/div>-->
+&lt;p>The data for the FAQ&amp;rsquo;s is stored in the faqs.yaml in the data folder and looks like this:&lt;/p></description></item><item><title>Gallery</title><link>https://javireguera.github.io/pixelfoster/en/docs/shortcodes/gallery/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/docs/shortcodes/gallery/</guid><description>&lt;p>The gallery shortcode enables you to transform a folder in your asset directory into an image gallery. You can see it in action on the &lt;a href="https://javireguera.github.io/pixelfoster/elements/">Elements page&lt;/a>. To show an image gallery, write the following &amp;lsquo;code&amp;rsquo;:&lt;/p>
+&lt;pre tabindex="0">&lt;code>{{&amp;lt; gallery dir=&amp;#34;/uploads/gallery/&amp;#34; &amp;gt;}} 
+&lt;/code>&lt;/pre>&lt;!--
+&lt;ul class="image-gallery">
+&lt;li>
+ &lt;a href="https://javireguera.github.io/pixelfoster/uploads/gallery/01_hu_6d8960e761e2c84b.jpg">
+ &lt;img src="https://javireguera.github.io/pixelfoster/uploads/gallery/01_hu_ad06ac10382ad0da.jpg" alt="Image 01" />
+ &lt;/a>
+ &lt;/li>&lt;li>
+ &lt;a href="https://javireguera.github.io/pixelfoster/uploads/gallery/02_hu_a373ca9d41af8eaa.jpg">
+ &lt;img src="https://javireguera.github.io/pixelfoster/uploads/gallery/02_hu_94392580cd7b1c6b.jpg" alt="Image 02" />
+ &lt;/a>
+ &lt;/li>&lt;li>
+ &lt;a href="https://javireguera.github.io/pixelfoster/uploads/gallery/03_hu_8aed9965b1a313db.jpg">
+ &lt;img src="https://javireguera.github.io/pixelfoster/uploads/gallery/03_hu_e8d1efa7dcce03f.jpg" alt="Image 03" />
+ &lt;/a>
+ &lt;/li>&lt;li>
+ &lt;a href="https://javireguera.github.io/pixelfoster/uploads/gallery/04_hu_e0d58fd1ad0b662.jpg">
+ &lt;img src="https://javireguera.github.io/pixelfoster/uploads/gallery/04_hu_eea18716c445eed1.jpg" alt="Image 04" />
+ &lt;/a>
+ &lt;/li>&lt;li>
+ &lt;a href="https://javireguera.github.io/pixelfoster/uploads/gallery/05_hu_9fbb661df88016f.jpg">
+ &lt;img src="https://javireguera.github.io/pixelfoster/uploads/gallery/05_hu_dcf36576b8226653.jpg" alt="Image 05" />
+ &lt;/a>
+ &lt;/li>
+&lt;/ul>
+ --></description></item><item><title>Map</title><link>https://javireguera.github.io/pixelfoster/en/docs/shortcodes/map/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/docs/shortcodes/map/</guid><description>&lt;p>A map is basically &lt;a href="https://javireguera.github.io/pixelfoster/uploads/map.png">an image&lt;/a> with a marker on top of it. The marker can be found in the &amp;lsquo;/static/img/&amp;rsquo; directory. Make sure to make your map image large enough, as it does not scale. The minimum size is a 900x400 pixel image. You can see the map shortcode in action on the &lt;a href="https://javireguera.github.io/pixelfoster/elements/">Elements page&lt;/a>. To show the map in your content, write the following shortcode:&lt;/p>
+&lt;pre tabindex="0">&lt;code>{{&amp;lt; map &amp;#34;/uploads/map.png&amp;#34; &amp;#34;https://link.to.map.location&amp;#34; &amp;gt;}}
+&lt;/code>&lt;/pre>&lt;!--&lt;p class="map" style="cursor: pointer; background: url(/uploads/map.png) center calc(50% + 2rem)" onclick="window.open('https:\/\/link.to.map.location')">&lt;/p></description></item><item><title>Social buttons</title><link>https://javireguera.github.io/pixelfoster/en/docs/shortcodes/socialbuttons/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/docs/shortcodes/socialbuttons/</guid><description>&lt;p>If you want to link to social media you can use the social media buttons shortcode. The settings for these icons can be found in the &amp;lsquo;footer.yaml&amp;rsquo; file in the data directory. You can see the social buttons in action on the &lt;a href="https://javireguera.github.io/pixelfoster/elements/">Elements page&lt;/a>. To show the social buttons, write the following shortcode:&lt;/p>
+&lt;pre tabindex="0">&lt;code>{{&amp;lt; socialbuttons &amp;gt;}}
+&lt;/code>&lt;/pre>&lt;!--
+&lt;ul class="buttons social">&lt;li>&lt;a href="https://facebook.com" class="button icon">&lt;img src="https://javireguera.github.io/pixelfoster/img/facebook.svg" alt="Facebook" />&lt;/a>&lt;/li>&lt;li>&lt;a href="https://twitter.com" class="button icon">&lt;img src="https://javireguera.github.io/pixelfoster/img/twitter.svg" alt="Twitter" />&lt;/a>&lt;/li>&lt;li>&lt;a href="https://joinmastodon.org" class="button icon">&lt;img src="https://javireguera.github.io/pixelfoster/img/mastodon.svg" alt="Mastodon" />&lt;/a>&lt;/li>&lt;li>&lt;a href="https://instagram.com" class="button icon">&lt;img src="https://javireguera.github.io/pixelfoster/img/instagram.svg" alt="Instagram" />&lt;/a>&lt;/li>&lt;/ul>--></description></item><item><title>Subpages</title><link>https://javireguera.github.io/pixelfoster/en/docs/shortcodes/subpages/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/docs/shortcodes/subpages/</guid><description>&lt;p>Sometimes, &lt;a href="https://javireguera.github.io/pixelfoster/docs/shortcodes/">like here&lt;/a>, you want to show a list of the subpages. This shortcode makes that really easy. It outputs a simple unordered list with links. To show the subpages, write the following shortcode:&lt;/p>
+&lt;pre tabindex="0">&lt;code>{{&amp;lt; subpages &amp;gt;}}
+&lt;/code>&lt;/pre>&lt;!--&lt;ul>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;li>&lt;a href="https://javireguera.github.io/pixelfoster/en/docs/shortcodes/breadcrumbs/">Breadcrumbs&lt;/a>&lt;/li>
+ 
+ 
+ 
+ &lt;li>&lt;a href="https://javireguera.github.io/pixelfoster/en/docs/shortcodes/button/">Button&lt;/a>&lt;/li>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;li>&lt;a href="https://javireguera.github.io/pixelfoster/en/docs/shortcodes/contactbuttons/">Contact buttons&lt;/a>&lt;/li>
+ 
+ 
+ 
+ &lt;li>&lt;a href="https://javireguera.github.io/pixelfoster/en/docs/shortcodes/contact-form/">Contact form&lt;/a>&lt;/li>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;li>&lt;a href="https://javireguera.github.io/pixelfoster/en/docs/shortcodes/cta-form/">CTA form&lt;/a>&lt;/li>
+ 
+ 
+ 
+ 
+ 
+ &lt;li>&lt;a href="https://javireguera.github.io/pixelfoster/en/docs/shortcodes/faq/">F.A.Q.&lt;/a>&lt;/li>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;li>&lt;a href="https://javireguera.github.io/pixelfoster/en/docs/shortcodes/gallery/">Gallery&lt;/a>&lt;/li>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;li>&lt;a href="https://javireguera.github.io/pixelfoster/en/docs/shortcodes/map/">Map&lt;/a>&lt;/li>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;li>&lt;a href="https://javireguera.github.io/pixelfoster/en/docs/shortcodes/socialbuttons/">Social buttons&lt;/a>&lt;/li>
+ 
+ 
+ 
+ &lt;li>&lt;a href="https://javireguera.github.io/pixelfoster/en/docs/shortcodes/subpages/">Subpages&lt;/a>&lt;/li>
+ 
+ 
+ 
+ &lt;li>&lt;a href="https://javireguera.github.io/pixelfoster/en/docs/shortcodes/tabs/">Tabs&lt;/a>&lt;/li>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;li>&lt;a href="https://javireguera.github.io/pixelfoster/en/docs/shortcodes/video/">Video&lt;/a>&lt;/li>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;li>&lt;a href="https://javireguera.github.io/pixelfoster/en/docs/shortcodes/youtube/">Youtube&lt;/a>&lt;/li>
+ 
+ 
+&lt;/ul>--></description></item><item><title>Tabs</title><link>https://javireguera.github.io/pixelfoster/en/docs/shortcodes/tabs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/docs/shortcodes/tabs/</guid><description>&lt;p>You can see the form in action on the &lt;a href="https://javireguera.github.io/pixelfoster/elements/">Elements page&lt;/a>.&lt;/p>
+&lt;pre tabindex="0">&lt;code>{{&amp;lt; tabs &amp;gt;}}
+
+## Tab1
+
+Aliquam et dictum sem.
+
+---
+
+## Tab2
+
+Aliquam et dictum sem.
+
+{{&amp;lt; /tabs &amp;gt;}}
+&lt;/code>&lt;/pre>&lt;!--&lt;ul class="tabs">&lt;li>&lt;a href="#tab_" onclick="toggleTab(this); return false;">&lt;/a>&lt;/li>&lt;/ul>
+&lt;div class="tabs_container">&lt;div class="tab" id="tab_">Empty shortcode found.&lt;/div>&lt;/div>
+&lt;script>
+ function toggleTab(el) {
+ var els = el.parentElement.parentElement.querySelectorAll('li');
+ els.forEach(function(el) {
+ el.classList.remove('selected');
+ });
+ var els = el.parentElement.parentElement.nextElementSibling.querySelectorAll('.tab');
+ els.forEach(function(tab) {
+ tab.style.display = 'none';
+ });
+ el.parentElement.classList.add('selected')
+ el.parentElement.parentElement.nextElementSibling.querySelector(el.getAttribute('href')).style.display = '';
+ }
+ var els = document.querySelectorAll('.tabs');
+ els.forEach(function(instance) {
+ instance.querySelector('li:first-child a').click();
+ });
+&lt;/script>--></description></item><item><title>Video</title><link>https://javireguera.github.io/pixelfoster/en/docs/shortcodes/video/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/docs/shortcodes/video/</guid><description>&lt;p>The video shortcode enables you to put an HTML5 video in your project. You can see it in action on the &lt;a href="https://javireguera.github.io/pixelfoster/elements/">Elements page&lt;/a>. To show a HTML5 video, write the following &amp;lsquo;code&amp;rsquo;:&lt;/p>
+&lt;pre tabindex="0">&lt;code>{{&amp;lt; video &amp;#34;/uploads/video/flowers.mp4&amp;#34; &amp;gt;}} 
+&lt;/code>&lt;/pre>&lt;!--
+&lt;figure >
+ &lt;video playsinline controls class="player" preload="metadata" data-poster="">
+ &lt;source src="https://javireguera.github.io/pixelfoster/uploads/video/flowers.mp4">
+ &lt;p>
+ Your browser does not support HTML5 video.
+ Here is &lt;a href="https://javireguera.github.io/pixelfoster/uploads/video/flowers.mp4">">a link to download the video&lt;/a>.
+ &lt;/p>
+ &lt;/video>
+ 
+&lt;/figure> --></description></item><item><title>Youtube</title><link>https://javireguera.github.io/pixelfoster/en/docs/shortcodes/youtube/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/docs/shortcodes/youtube/</guid><description>&lt;p>Youtube is a popular video streaming service ( from a company that is known for tracking and profiling, though). The solution is to host the poster yourself and link it to Youtube. This can be done using this shortcode.&lt;/p>
+&lt;p>You can see it in action on the &lt;a href="https://javireguera.github.io/pixelfoster/elements/">Elements page&lt;/a>. To show a Youtube video embed, write the following &amp;lsquo;code&amp;rsquo;:&lt;/p>
+&lt;pre tabindex="0">&lt;code>{{&amp;lt; youtube &amp;#34;qtIqKaDlqXo&amp;#34; &amp;#34;/uploads/youtubeposter.jpg&amp;#34; &amp;gt;}} 
+&lt;/code>&lt;/pre>&lt;!--&lt;p>&lt;a class="shortcode-youtube" href="https://www.youtube.com/watch?v=qtIqKaDlqXo" title="Play Youtube video" target="_blank">&lt;img src="https://javireguera.github.io/pixelfoster/uploads/youtubeposter_hu_531d4920cf3f0981.jpg" alt="Youtube video qtIqKaDlqXo" />&lt;/a>&lt;/p> --></description></item></channel></rss>

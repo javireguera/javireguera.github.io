@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Customizations on</title><link>https://javireguera.github.io/pixelfoster/en/docs/customizations/</link><description>Recent content in Customizations on</description><generator>Hugo</generator><language>en</language><atom:link href="https://javireguera.github.io/pixelfoster/en/docs/customizations/index.xml" rel="self" type="application/rss+xml"/><item><title>Colors</title><link>https://javireguera.github.io/pixelfoster/en/docs/customizations/colors/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/docs/customizations/colors/</guid><description>&lt;p>The color definitions can be found in &amp;lsquo;style.css&amp;rsquo; in &amp;lsquo;/static/css/style.css&amp;rsquo;. The definitions are stored in CSS variables. Changing these variables will change the colors in your whole website. The default settings (from this website) look like this:&lt;/p>
+&lt;pre tabindex="0">&lt;code>:root {
+ --textDark: rgba(38, 50, 56, 1);
+ --textMedium: rgba(38, 50, 56, 0.7);
+ --borderMedium: rgba(38, 50, 56, 0.2); 
+ --borderLight: rgba(38, 50, 56, 0.075);
+ --accent: #f4b500;
+ --accentDarker: #e6ac00;
+ --light: rgba(38, 50, 56, 0.035);
+}
+&lt;/code>&lt;/pre>&lt;h2 id="colorizing">Colorizing&lt;/h2>
+&lt;p>The icons in this theme (and some of the images) are actually black/grayscale. The theme colorizes them, using the CSS filter trick. The definition of this trick can also be found in the &amp;lsquo;style.css&amp;rsquo; file. To illustrate this: the code below transforms a black icon into an icon in the (yellow) accent color:&lt;/p></description></item><item><title>Fonts</title><link>https://javireguera.github.io/pixelfoster/en/docs/customizations/fonts/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/docs/customizations/fonts/</guid><description>&lt;p>The font files are stored in the &amp;lsquo;/static/fonts/&amp;rsquo; directory of the theme. The font definitions can be found in &amp;lsquo;fonts.css&amp;rsquo; in &amp;lsquo;/static/css/fonts.css&amp;rsquo;. Changing this file will change the fonts in your whole website. This file looks like this:&lt;/p>
+&lt;pre tabindex="0">&lt;code>@font-face {
+ font-display: swap;
+ font-family: &amp;#39;Signika&amp;#39;;
+ font-style: normal;
+ font-weight: 700;
+ src: url(&amp;#39;/fonts/signika-v20-latin-700.woff2&amp;#39;) format(&amp;#39;woff2&amp;#39;);
+}
+@font-face {
+ font-display: swap;
+ font-family: &amp;#39;Heebo&amp;#39;;
+ font-style: normal;
+ font-weight: 400;
+ src: url(&amp;#39;/fonts/heebo-v21-latin-regular.woff2&amp;#39;) format(&amp;#39;woff2&amp;#39;);
+}
+@font-face {
+ font-display: swap;
+ font-family: &amp;#39;Heebo&amp;#39;;
+ font-style: normal;
+ font-weight: 600;
+ src: url(&amp;#39;/fonts/heebo-v21-latin-600.woff2&amp;#39;) format(&amp;#39;woff2&amp;#39;);
+}
+
+:root {
+ --fontTitles: &amp;#39;Signika&amp;#39;, sans-serif;
+ --fontBody: &amp;#39;Heebo&amp;#39;, sans-serif;
+}
+&lt;/code>&lt;/pre></description></item><item><title>CSS overrides</title><link>https://javireguera.github.io/pixelfoster/en/docs/customizations/css/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/docs/customizations/css/</guid><description>&lt;p>Want to go all the way with customization? No problem! With CSS overrides you can make it even look &lt;a href="https://www.postgrowthcities.com/">like this&lt;/a>. The sky is the limit. Just write your overrides at the bottom of the &amp;lsquo;style.css&amp;rsquo; file in the &amp;lsquo;/static/css/&amp;rsquo; directory. Look for the following line in this files and write your CSS below:&lt;/p>
+&lt;pre tabindex="0">&lt;code>/*------------ CSS overrides below --------------*/
+&lt;/code>&lt;/pre>&lt;p> &lt;/p>
+&lt;h2 id="customization-examples">Customization examples&lt;/h2>
+&lt;p>Some examples of website that use Hugobricks:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.aadprins.preview.usecue.com">https://www.aadprins.preview.usecue.com&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.postgrowthcities.com">https://www.postgrowthcities.com&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.klachtencommissievj.preview.usecue.com/">https://www.klachtencommissievj.preview.usecue.com/&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Multiple languages</title><link>https://javireguera.github.io/pixelfoster/en/docs/customizations/multiple-languages/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javireguera.github.io/pixelfoster/en/docs/customizations/multiple-languages/</guid><description>&lt;p>Hugobricks has been fully prepared to support a multilingual setup. In the docs you will see the &amp;lsquo;/en/&amp;rsquo; reference more than once. This means you can duplicate and translate all content in as many languages as you want by following a similar pattern with a different language string. Adding a language also requires an additional entry in the &amp;lsquo;config.yaml&amp;rsquo; file. This should then look simlilar to this:&lt;/p>
+&lt;pre tabindex="0">&lt;code>defaultContentLanguage: en
+languages:
+ en:
+ languageName: English
+ contentDir: content/en
+ weight: 1
+ nl:
+ languageName: Nederlands
+ contentDir: content/nl
+ weight: 2
+&lt;/code>&lt;/pre>&lt;p>Additionally, you need some string translations. They can be found in the &amp;lsquo;i18n&amp;rsquo; folder and you will find a file for every language. This files are yaml files and the &amp;rsquo;nl.yaml&amp;rsquo; file looks like this:&lt;/p></description></item></channel></rss>
